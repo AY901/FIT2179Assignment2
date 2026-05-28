@@ -13,7 +13,7 @@
       "mark": {"type": "geoshape", "fill": "#f2eee5", "stroke": "#b9b0a3", "strokeWidth": 0.5}
     },
     {
-      "data": {"url": "data/fire_points_sample.csv"},
+      "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/fire_points_sample.csv"},
       "mark": {
         "type": "circle",
         "opacity": 0.58,
