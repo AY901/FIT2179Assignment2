@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 330,
+  "title": "Bushfire mental-health MBS services shifted into telehealth",
+  "data": {"url": "data/mental_health_weekly.csv"},
+  "transform": [
+    {"fold": ["face_to_face_n", "telehealth_n"], "as": ["mode_raw", "services"]},
+    {"calculate": "datum.mode_raw == 'face_to_face_n' ? 'Face-to-face' : 'Telehealth'", "as": "Service mode"}
+  ],
+  "mark": "area",
+  "encoding": {
+    "x": {"field": "week_ending", "type": "temporal", "title": null},
+    "y": {"field": "services", "type": "quantitative", "stack": "zero", "title": "Services"},
+    "color": {"field": "Service mode", "type": "nominal", "scale": {"range": ["#2f6f73", "#f3a261"]}},
+    "tooltip": [
+      {"field": "week_ending", "type": "temporal"},
+      {"field": "Service mode", "type": "nominal"},
+      {"field": "services", "type": "quantitative"}
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Aligned weekly view: fire activity, smoke exposure, and respiratory health",
+  "vconcat": [
+    {
+      "width": "container",
+      "height": 150,
+      "data": {"url": "data/fire_weekly.csv"},
+      "mark": {"type": "area", "color": "#c73e1d", "opacity": 0.7},
+      "encoding": {
+        "x": {
+          "field": "week_start",
+          "type": "temporal",
+          "title": null,
+          "axis": {"format": "%b %d", "labelAngle": 0}
+        },
+        "y": {"field": "fire_count", "type": "quantitative", "title": "Fire detections"},
+        "tooltip": [{"field": "week_start", "type": "temporal"}, {"field": "fire_count", "type": "quantitative"}]
+      }
+    },
+    {
+      "width": "container",
+      "height": 150,
+      "data": {"url": "data/air_weekly.csv"},
+      "transform": [{"filter": "datum.parameter == 'PM2.5'"}],
+      "mark": {"type": "line", "color": "#59656f", "point": true},
+      "encoding": {
+        "x": {
+          "field": "week_start",
+          "type": "temporal",
+          "title": null,
+          "axis": {"format": "%b %d", "labelAngle": 0}
+        },
+        "y": {"field": "value", "type": "quantitative", "title": "PM2.5"},
+        "tooltip": [{"field": "week_start", "type": "temporal"}, {"field": "value", "type": "quantitative"}]
+      }
+    },
+    {
+      "width": "container",
+      "height": 170,
+      "data": {"url": "data/health_indicator_weekly_change.csv"},
+      "transform": [
+        {"filter": "datum.diagnosis == 'Diseases of the respiratory system' || datum.diagnosis == 'Asthma'"}
+      ],
+      "mark": {"type": "line", "point": true},
+      "encoding": {
+        "x": {
+          "field": "week_start_2019_20",
+          "type": "temporal",
+          "title": "Aligned week",
+          "axis": {"format": "%b %d", "labelAngle": 0}
+        },
+        "y": {"field": "pct_change_vs_2018_19", "type": "quantitative", "title": "% change vs 2018-19"},
+        "color": {"field": "diagnosis", "type": "nominal", "scale": {"range": ["#2f6f73", "#f3a261"]}},
+        "tooltip": [
+          {"field": "week_label", "type": "nominal"},
+          {"field": "diagnosis", "type": "nominal"},
+          {"field": "pct_change_vs_2018_19", "type": "quantitative", "format": ".1f"}
+        ]
+      }
+    }
+  ]
+}

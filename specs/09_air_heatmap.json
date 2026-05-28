@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 360,
+  "title": "PM2.5 heatmap: site by date",
+  "data": {"url": "data/air_daily.csv"},
+  "transform": [{"filter": "datum.parameter == 'PM2.5'"}],
+  "mark": "rect",
+  "encoding": {
+    "x": {"field": "date", "type": "temporal", "timeUnit": "yearmonthdate", "title": "Date"},
+    "y": {"field": "site", "type": "nominal", "title": "Monitoring site"},
+    "color": {
+      "field": "value",
+      "type": "quantitative",
+      "scale": {
+        "domain": [0, 25, 50, 100, 150, 220],
+        "range": ["#111827", "#1d4ed8", "#14b8a6", "#f97316", "#ec4899", "#fff7ad"],
+        "clamp": true
+      },
+      "legend": {
+        "title": "PM2.5",
+        "values": [0, 25, 50, 100, 150, 220]
+      }
+    },
+    "tooltip": [
+      {"field": "date", "type": "temporal"},
+      {"field": "site", "type": "nominal"},
+      {"field": "value", "type": "quantitative", "format": ".1f"}
+    ]
+  }
+}

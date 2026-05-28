@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>From Fire to Breath</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.25.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.16.3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.22.2"></script>
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">FIT2179 Data Visualisation 2</p>
+    <h1>From Fire to Breath</h1>
+    <p class="subtitle">Black Summer was not only a story of burning landscapes. It was a chain reaction: fire activity intensified, smoke entered the air people breathed, and short-term health indicators began to shift.</p>
+  </header>
+
+  <main>
+    <section class="story-block">
+      <h2>1. The Fire Season Intensified</h2>
+      <div class="section-brief">
+        <p>Black Summer did not arrive as a single dramatic moment. It gathered pace across months, with satellite detections spreading across eastern and southern Australia before the most severe summer weeks.</p>
+        <p class="takeaway">The first act establishes the physical scale of the event: where fires were detected, where they clustered, and when intensity reached its peak.</p>
+        <div class="story-panel compact">
+          <p class="panel-label">Reading the fire layer</p>
+          <p>The story moves from geography to time: first <strong>where</strong> the fire signal appeared, then <strong>when</strong> it became most intense.</p>
+        </div>
+      </div>
+      <h3>Fire detections spread across the continent</h3>
+      <p class="chart-note">Each point marks a sampled high-confidence vegetation fire detection. Circle size shows fire radiative power, so the largest marks point to more intense fire activity.</p>
+      <div id="fire-symbol-map" class="vis"></div>
+      <div class="insight-grid">
+        <div>
+          <span>What to notice</span>
+          <p>Dense clusters appear along the eastern and southern parts of Australia, while large FRP circles identify days and places where the satellite detected stronger fire energy.</p>
+        </div>
+        <div>
+          <span>Why it matters</span>
+          <p>The later smoke and health charts should be read against this fire geography: the public-health story starts with a large environmental source.</p>
+        </div>
+      </div>
+      <div class="grid two">
+        <article>
+          <h3>Fire activity formed regional hotspots</h3>
+          <p class="chart-note">Aggregating detections into grid cells turns thousands of satellite points into a clearer spatial pattern of concentrated fire activity.</p>
+          <div id="fire-grid-map" class="vis"></div>
+        </article>
+        <article>
+          <h3>The signal persisted beyond daylight</h3>
+          <p class="chart-note">Separating day and night detections shows that the fire signal was not only a daytime observation pattern; detections continued through the season.</p>
+          <div id="fire-daynight" class="vis"></div>
+        </article>
+      </div>
+      <h3>The peak was both frequent and intense</h3>
+      <p class="chart-note">The layered trend connects two dimensions of the season: how many fires were detected and how much radiative power they produced.</p>
+      <div id="fire-layered-trend" class="vis"></div>
+      <div class="story-panel compact">
+        <p class="panel-label">Narrative transition</p>
+        <p>Once the timing of the fire peak is visible, the question changes. The next section asks whether the fire season also appears in the air-quality record, especially through fine particles that people could inhale.</p>
+      </div>
+      <h3>The timeline narrows the turning point</h3>
+      <p class="chart-note">Use the lower overview to inspect the weeks when fire activity accelerated. The aim is to help the reader locate the peak before moving into smoke and health outcomes.</p>
+      <div id="fire-overview-detail" class="vis"></div>
+      <h3>Confidence supports the pattern</h3>
+      <p class="chart-note">The confidence chart acts as a reliability check: the summer peak is not only a larger number of records, but a stronger satellite signal.</p>
+      <div id="fire-confidence" class="vis"></div>
+    </section>
+
+    <section class="story-block">
+      <h2>2. Smoke Reached Monitoring Sites</h2>
+      <div class="section-brief">
+        <p>For many people, Black Summer was experienced less as flames and more as air. Smoke travelled beyond the firegrounds, turning a landscape disaster into a daily exposure problem.</p>
+        <p class="takeaway">This section shifts the story from where fires burned to where smoke was measured, using PM2.5 as the main indicator of fine-particle exposure.</p>
+        <div class="story-panel compact">
+          <p class="panel-label">From source to exposure</p>
+          <p>PM2.5 connects the environmental event to a human experience: fine particles can be breathed deep into the lungs and rise sharply during smoke episodes.</p>
+        </div>
+      </div>
+      <div class="feature-split map-focus">
+        <div class="feature-copy">
+          <h3>Victoria shows the smoke footprint</h3>
+          <p class="chart-note">PM2.5 refers to fine particles small enough to travel deep into the lungs. The Victoria map shows where monitoring sites recorded peak daily exposure.</p>
+          <p class="chart-note secondary-note">Larger symbols mean more days above 25 micrograms per cubic metre. Brighter symbols mean higher peak daily PM2.5.</p>
+        </div>
+        <div id="air-site-map" class="vis"></div>
+      </div>
+      <h3>Smoke arrived as sharp episodes</h3>
+      <p class="chart-note">The daily PM2.5 line chart shows bursts of fine-particle pollution. This is important because smoke risk was not evenly distributed across the whole season.</p>
+      <div id="air-pm25-lines" class="vis"></div>
+      <h3>The same bad days appear across sites</h3>
+      <p class="chart-note">The heatmap compresses site-by-day readings into one panel, making shared smoke episodes easier to see than in separate line charts.</p>
+      <div id="air-heatmap" class="vis"></div>
+      <div class="insight-grid">
+        <div>
+          <span>What to notice</span>
+          <p>The strongest PM2.5 days appear as vertical bands, meaning several sites experienced poor air quality during the same period rather than in isolation.</p>
+        </div>
+        <div>
+          <span>Why it matters</span>
+          <p>This makes smoke exposure feel less like a local anomaly and more like a regional episode, setting up the health-service question that follows.</p>
+        </div>
+      </div>
+      <h3>Fine and coarse particles rose together</h3>
+      <p class="chart-note">This focused scatter plot compares days where PM2.5 and PM10 both fall within 0-100. Removing the extreme tail makes the main cluster easier to read.</p>
+      <div id="air-pollutant-scatter" class="vis"></div>
+    </section>
+
+    <section class="story-block">
+      <h2>3. Health Indicators Shifted</h2>
+      <div class="section-brief">
+        <p>Smoke exposure matters because it can place pressure on people and health services. The health data is not used here as proof of individual causation, but as a short-term signal to compare with earlier seasons.</p>
+        <p class="takeaway">The third act asks whether health indicators during the bushfire period looked unusual, especially for respiratory conditions and medication use.</p>
+        <div class="story-panel compact">
+          <p class="panel-label">Reading health data carefully</p>
+          <p>The health charts are framed as signals, not clinical proof: which indicators rose, where did pressure appear, and which impacts extended beyond breathing?</p>
+        </div>
+      </div>
+      <h3>Emergency presentations provide the first health signal</h3>
+      <p class="chart-note">NSW emergency department rates compare respiratory system presentations and asthma across seasons, placing 2019-20 beside earlier baselines.</p>
+      <div id="health-ed-lines" class="vis"></div>
+      <h3>Several indicators moved, but not equally</h3>
+      <p class="chart-note">Small multiples keep the comparison scale consistent, allowing respiratory, asthma, chest pain, dehydration and mental-health indicators to be scanned together.</p>
+      <div id="health-small-multiples" class="vis"></div>
+      <div class="insight-grid">
+        <div>
+          <span>What to notice</span>
+          <p>The small multiples show that health indicators did not move as one single block. Some categories fluctuate more strongly, while others remain closer to baseline.</p>
+        </div>
+        <div>
+          <span>Why it matters</span>
+          <p>This makes the story more nuanced: Black Summer created health pressure, but that pressure appeared differently across conditions and services.</p>
+        </div>
+      </div>
+      <div class="grid two">
+        <article>
+          <h3>Medication pressure was regionally uneven</h3>
+          <p class="chart-note">The ranked bar chart highlights SA4 areas with the largest peak increase in respiratory medication prescription rates compared with 2018-19.</p>
+          <div id="health-sa4-rank" class="vis"></div>
+        </article>
+        <article>
+          <h3>The impact extended beyond breathing</h3>
+          <p class="chart-note">Bushfire-specific mental-health MBS services grew after January 2020, with telehealth becoming part of the response.</p>
+          <div id="mental-health" class="vis"></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="story-block">
+      <h2>4. Linking Fire, Smoke, and Health</h2>
+      <div class="section-brief">
+        <p>The final view brings the three strands together. It does not claim that every health change was caused by a single smoke event; instead, it reads fire, air pollution and health indicators as one public-health sequence.</p>
+        <p class="takeaway">Black Summer was not only an environmental disaster. It became a smoke exposure and health-pressure story for Australian communities.</p>
+        <div class="story-panel compact">
+          <p class="panel-label">Final interpretation</p>
+          <p>The closing chart is aligned rather than causal. By comparing fire detections, PM2.5 exposure and respiratory health indicators on the same timeline, the story moves from landscape disturbance to lived health pressure.</p>
+        </div>
+      </div>
+      <h3>One timeline, three linked signals</h3>
+      <p class="chart-note">The coordinated view aligns weekly fire detections, PM2.5 exposure and respiratory health indicators, helping the reader follow the story from source to possible consequence.</p>
+      <div id="coordinated-summary" class="vis"></div>
+      <div class="closing-panel">
+        <p>In this story, fire is the beginning, not the endpoint. The data suggests a progression from burning landscapes, to smoke-filled air, to measurable pressure on health systems. That progression is why Black Summer should be remembered not only as a fire season, but as a public-health warning.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p><strong>Data sources:</strong> NASA MODIS fire detections（https://firms.modaps.eosdis.nasa.gov/country/）, Victorian air-quality hourly records（https://discover.data.vic.gov.au/dataset/epa-air-watch-all-sites-air-quality-hourly-averages-yearly/historical）, and AIHW supplementary health tables（https://www.aihw.gov.au/reports/environment-and-health/short-term-health-impacts-2019-20-bushfires/data
+）.</p>
+    <p><strong>AI Declaration:</strong> In this project, generative AI(chatgpt) is used to polish the storytelling so that it is professional and accurate.</p>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>

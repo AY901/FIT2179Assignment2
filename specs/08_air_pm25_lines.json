@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 320,
+  "title": "Daily PM2.5 at Victorian monitoring sites",
+  "data": {"url": "data/air_daily.csv"},
+  "transform": [
+    {"filter": "datum.parameter == 'PM2.5'"},
+    {"filter": "datum.site == 'Alphington' || datum.site == 'Dandenong' || datum.site == 'Churchill' || datum.site == 'Bendigo' || datum.site == 'Brooklyn'"}
+  ],
+  "mark": {"type": "line", "strokeWidth": 1.6},
+  "encoding": {
+    "x": {"field": "date", "type": "temporal", "title": null},
+    "y": {"field": "value", "type": "quantitative", "title": "Daily mean PM2.5"},
+    "color": {"field": "site", "type": "nominal", "title": "Site"},
+    "tooltip": [
+      {"field": "date", "type": "temporal"},
+      {"field": "site", "type": "nominal"},
+      {"field": "value", "type": "quantitative", "format": ".1f"}
+    ]
+  }
+}

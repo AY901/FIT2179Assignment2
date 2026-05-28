@@ -1,0 +1,19 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 260,
+  "title": "Share of high-confidence fire detections",
+  "data": {"url": "data/fire_monthly.csv"},
+  "transform": [
+    {"calculate": "datum.high_confidence_count / datum.fire_count * 100", "as": "high_confidence_pct"}
+  ],
+  "mark": {"type": "bar", "color": "#8c1d18"},
+  "encoding": {
+    "x": {"field": "month", "type": "ordinal", "title": "Month"},
+    "y": {"field": "high_confidence_pct", "type": "quantitative", "title": "High-confidence detections (%)"},
+    "tooltip": [
+      {"field": "month", "type": "ordinal"},
+      {"field": "high_confidence_pct", "type": "quantitative", "format": ".1f"}
+    ]
+  }
+}

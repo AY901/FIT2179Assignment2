@@ -1,0 +1,353 @@
+state,sa4_code,sa4_name,indicator,peak_asr_2019_20,max_change_vs_2018_19
+ACT,801,Australian Capital Territory,All GP MBS claims,10105.11,1708.57
+ACT,801,Australian Capital Territory,Respiratory medication prescriptions,1217.46,508.52
+ACT,801,Australian Capital Territory,Respiratory test MBS claims,35.13,6.75
+ACT,801,Australian Capital Territory,Salbutamol prescriptions,262.16,150.26
+NSW,101,Capital Region,All GP MBS claims,10560.75,1487.12
+NSW,101,Capital Region,Respiratory medication prescriptions,1413.77,395.26
+NSW,101,Capital Region,Respiratory test MBS claims,58.87,13.53
+NSW,101,Capital Region,Salbutamol prescriptions,356.83,131.39
+NSW,102,Central Coast,All GP MBS claims,12974.46,1521.75
+NSW,102,Central Coast,Respiratory medication prescriptions,1391.02,148.75
+NSW,102,Central Coast,Respiratory test MBS claims,69.68,4.94
+NSW,102,Central Coast,Salbutamol prescriptions,404.43,62.12
+NSW,103,Central West,All GP MBS claims,11144.33,1762.58
+NSW,103,Central West,Respiratory medication prescriptions,1721.35,362.81
+NSW,103,Central West,Respiratory test MBS claims,66.09,23.6
+NSW,103,Central West,Salbutamol prescriptions,535.85,157.73
+NSW,104,Coffs Harbour - Grafton,All GP MBS claims,11321.41,1637.3
+NSW,104,Coffs Harbour - Grafton,Respiratory medication prescriptions,1537.02,396.47
+NSW,104,Coffs Harbour - Grafton,Respiratory test MBS claims,97.66,8.47
+NSW,104,Coffs Harbour - Grafton,Salbutamol prescriptions,523.95,216.19
+NSW,105,Far West and Orana,All GP MBS claims,11498.8,1380.97
+NSW,105,Far West and Orana,Respiratory medication prescriptions,1641.05,214.64
+NSW,105,Far West and Orana,Respiratory test MBS claims,63.94,14.89
+NSW,105,Far West and Orana,Salbutamol prescriptions,507.95,80.56
+NSW,106,Hunter Valley exc Newcastle,All GP MBS claims,12264.37,1686.2
+NSW,106,Hunter Valley exc Newcastle,Respiratory medication prescriptions,1405.89,133.21
+NSW,106,Hunter Valley exc Newcastle,Respiratory test MBS claims,58.4,9.09
+NSW,106,Hunter Valley exc Newcastle,Salbutamol prescriptions,397.97,61.76
+NSW,107,Illawarra,All GP MBS claims,13354.31,1637.63
+NSW,107,Illawarra,Respiratory medication prescriptions,1408.15,129.05
+NSW,107,Illawarra,Respiratory test MBS claims,88.92,15.29
+NSW,107,Illawarra,Salbutamol prescriptions,372.24,56.69
+NSW,108,Mid North Coast,All GP MBS claims,11642.47,1678.2
+NSW,108,Mid North Coast,Respiratory medication prescriptions,1738.8,591.96
+NSW,108,Mid North Coast,Respiratory test MBS claims,84.33,13.82
+NSW,108,Mid North Coast,Salbutamol prescriptions,576.29,237.34
+NSW,109,Murray,All GP MBS claims,10690.19,1155.99
+NSW,109,Murray,Respiratory medication prescriptions,1271.79,318.5
+NSW,109,Murray,Respiratory test MBS claims,61.0,18.6
+NSW,109,Murray,Salbutamol prescriptions,326.91,124.18
+NSW,110,New England and North West,All GP MBS claims,9888.18,1512.4
+NSW,110,New England and North West,Respiratory medication prescriptions,1547.39,257.4
+NSW,110,New England and North West,Respiratory test MBS claims,60.15,30.34
+NSW,110,New England and North West,Salbutamol prescriptions,469.81,100.37
+NSW,111,Newcastle and Lake Macquarie,All GP MBS claims,11325.1,1570.88
+NSW,111,Newcastle and Lake Macquarie,Respiratory medication prescriptions,1418.01,143.81
+NSW,111,Newcastle and Lake Macquarie,Respiratory test MBS claims,55.35,9.52
+NSW,111,Newcastle and Lake Macquarie,Salbutamol prescriptions,431.14,76.63
+NSW,112,Richmond - Tweed,All GP MBS claims,11901.09,1713.03
+NSW,112,Richmond - Tweed,Respiratory medication prescriptions,1153.48,198.75
+NSW,112,Richmond - Tweed,Respiratory test MBS claims,66.58,15.43
+NSW,112,Richmond - Tweed,Salbutamol prescriptions,352.46,85.77
+NSW,113,Riverina,All GP MBS claims,11104.11,1452.05
+NSW,113,Riverina,Respiratory medication prescriptions,1689.52,255.37
+NSW,113,Riverina,Respiratory test MBS claims,120.11,51.61
+NSW,113,Riverina,Salbutamol prescriptions,477.87,104.1
+NSW,114,Southern Highlands and Shoalhaven,All GP MBS claims,12065.69,1616.2
+NSW,114,Southern Highlands and Shoalhaven,Respiratory medication prescriptions,1365.2,274.97
+NSW,114,Southern Highlands and Shoalhaven,Respiratory test MBS claims,83.15,28.17
+NSW,114,Southern Highlands and Shoalhaven,Salbutamol prescriptions,361.71,85.13
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,All GP MBS claims,14011.07,1604.7
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Respiratory medication prescriptions,1006.18,157.92
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Respiratory test MBS claims,65.92,17.12
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Salbutamol prescriptions,206.38,44.72
+NSW,116,Sydney - Blacktown,All GP MBS claims,17201.27,1682.93
+NSW,116,Sydney - Blacktown,Respiratory medication prescriptions,1612.86,148.02
+NSW,116,Sydney - Blacktown,Respiratory test MBS claims,88.1,12.23
+NSW,116,Sydney - Blacktown,Salbutamol prescriptions,486.01,99.3
+NSW,117,Sydney - City and Inner South,All GP MBS claims,10851.39,1321.14
+NSW,117,Sydney - City and Inner South,Respiratory medication prescriptions,1170.58,183.34
+NSW,117,Sydney - City and Inner South,Respiratory test MBS claims,66.08,7.31
+NSW,117,Sydney - City and Inner South,Salbutamol prescriptions,296.64,77.05
+NSW,118,Sydney - Eastern Suburbs,All GP MBS claims,10628.91,1115.16
+NSW,118,Sydney - Eastern Suburbs,Respiratory medication prescriptions,990.32,214.96
+NSW,118,Sydney - Eastern Suburbs,Respiratory test MBS claims,97.43,12.14
+NSW,118,Sydney - Eastern Suburbs,Salbutamol prescriptions,186.35,51.42
+NSW,119,Sydney - Inner South West,All GP MBS claims,13801.24,1659.01
+NSW,119,Sydney - Inner South West,Respiratory medication prescriptions,1472.2,173.57
+NSW,119,Sydney - Inner South West,Respiratory test MBS claims,65.17,8.65
+NSW,119,Sydney - Inner South West,Salbutamol prescriptions,412.17,75.51
+NSW,120,Sydney - Inner West,All GP MBS claims,11411.82,1585.71
+NSW,120,Sydney - Inner West,Respiratory medication prescriptions,1015.84,173.67
+NSW,120,Sydney - Inner West,Respiratory test MBS claims,55.91,7.05
+NSW,120,Sydney - Inner West,Salbutamol prescriptions,230.3,49.98
+NSW,121,Sydney - North Sydney and Hornsby,All GP MBS claims,10546.3,1455.55
+NSW,121,Sydney - North Sydney and Hornsby,Respiratory medication prescriptions,884.25,243.56
+NSW,121,Sydney - North Sydney and Hornsby,Respiratory test MBS claims,56.05,11.8
+NSW,121,Sydney - North Sydney and Hornsby,Salbutamol prescriptions,132.66,37.94
+NSW,122,Sydney - Northern Beaches,All GP MBS claims,10277.58,1094.11
+NSW,122,Sydney - Northern Beaches,Respiratory medication prescriptions,924.88,206.19
+NSW,122,Sydney - Northern Beaches,Respiratory test MBS claims,48.48,10.89
+NSW,122,Sydney - Northern Beaches,Salbutamol prescriptions,151.34,50.41
+NSW,123,Sydney - Outer South West,All GP MBS claims,16830.9,2311.09
+NSW,123,Sydney - Outer South West,Respiratory medication prescriptions,1527.45,279.35
+NSW,123,Sydney - Outer South West,Respiratory test MBS claims,84.74,21.8
+NSW,123,Sydney - Outer South West,Salbutamol prescriptions,497.68,147.38
+NSW,124,Sydney - Outer West and Blue Mountains,All GP MBS claims,15491.75,2250.87
+NSW,124,Sydney - Outer West and Blue Mountains,Respiratory medication prescriptions,1431.58,229.39
+NSW,124,Sydney - Outer West and Blue Mountains,Respiratory test MBS claims,75.57,16.45
+NSW,124,Sydney - Outer West and Blue Mountains,Salbutamol prescriptions,398.94,117.32
+NSW,125,Sydney - Parramatta,All GP MBS claims,15037.63,1827.22
+NSW,125,Sydney - Parramatta,Respiratory medication prescriptions,1243.41,130.44
+NSW,125,Sydney - Parramatta,Respiratory test MBS claims,59.68,8.95
+NSW,125,Sydney - Parramatta,Salbutamol prescriptions,358.4,72.45
+NSW,126,Sydney - Ryde,All GP MBS claims,11317.2,1528.67
+NSW,126,Sydney - Ryde,Respiratory medication prescriptions,874.66,125.63
+NSW,126,Sydney - Ryde,Respiratory test MBS claims,53.25,13.54
+NSW,126,Sydney - Ryde,Salbutamol prescriptions,178.27,36.99
+NSW,127,Sydney - South West,All GP MBS claims,16019.64,1982.03
+NSW,127,Sydney - South West,Respiratory medication prescriptions,1480.54,175.58
+NSW,127,Sydney - South West,Respiratory test MBS claims,74.24,18.61
+NSW,127,Sydney - South West,Salbutamol prescriptions,459.68,104.56
+NSW,128,Sydney - Sutherland,All GP MBS claims,12644.03,1787.5
+NSW,128,Sydney - Sutherland,Respiratory medication prescriptions,1079.72,166.43
+NSW,128,Sydney - Sutherland,Respiratory test MBS claims,69.25,4.84
+NSW,128,Sydney - Sutherland,Salbutamol prescriptions,216.17,44.09
+Northern Territory,701,Darwin,All GP MBS claims,12484.71,548.83
+Northern Territory,701,Darwin,Respiratory medication prescriptions,890.02,159.89
+Northern Territory,701,Darwin,Respiratory test MBS claims,43.9,10.74
+Northern Territory,701,Darwin,Salbutamol prescriptions,215.87,46.67
+Northern Territory,702,Northern Territory - Outback,All GP MBS claims,7411.42,617.17
+Northern Territory,702,Northern Territory - Outback,Respiratory medication prescriptions,635.91,208.89
+Northern Territory,702,Northern Territory - Outback,Respiratory test MBS claims,36.61,7.11
+Northern Territory,702,Northern Territory - Outback,Salbutamol prescriptions,162.18,87.76
+Queensland,301,Brisbane - East,All GP MBS claims,13123.12,1912.88
+Queensland,301,Brisbane - East,Respiratory medication prescriptions,1037.86,98.4
+Queensland,301,Brisbane - East,Respiratory test MBS claims,89.65,14.72
+Queensland,301,Brisbane - East,Salbutamol prescriptions,258.96,33.59
+Queensland,302,Brisbane - North,All GP MBS claims,12146.36,1480.67
+Queensland,302,Brisbane - North,Respiratory medication prescriptions,1045.01,112.34
+Queensland,302,Brisbane - North,Respiratory test MBS claims,73.45,14.89
+Queensland,302,Brisbane - North,Salbutamol prescriptions,275.37,48.48
+Queensland,303,Brisbane - South,All GP MBS claims,12219.26,1542.9
+Queensland,303,Brisbane - South,Respiratory medication prescriptions,928.51,185.25
+Queensland,303,Brisbane - South,Respiratory test MBS claims,77.96,18.18
+Queensland,303,Brisbane - South,Salbutamol prescriptions,231.42,61.13
+Queensland,304,Brisbane - West,All GP MBS claims,10998.11,1781.19
+Queensland,304,Brisbane - West,Respiratory medication prescriptions,908.31,210.88
+Queensland,304,Brisbane - West,Respiratory test MBS claims,83.69,19.39
+Queensland,304,Brisbane - West,Salbutamol prescriptions,177.0,44.46
+Queensland,305,Brisbane Inner City,All GP MBS claims,10541.27,1498.16
+Queensland,305,Brisbane Inner City,Respiratory medication prescriptions,872.11,172.24
+Queensland,305,Brisbane Inner City,Respiratory test MBS claims,79.02,14.24
+Queensland,305,Brisbane Inner City,Salbutamol prescriptions,180.39,42.7
+Queensland,306,Cairns,All GP MBS claims,11321.22,1368.26
+Queensland,306,Cairns,Respiratory medication prescriptions,894.33,60.71
+Queensland,306,Cairns,Respiratory test MBS claims,56.84,10.72
+Queensland,306,Cairns,Salbutamol prescriptions,253.43,24.33
+Queensland,307,Darling Downs - Maranoa,All GP MBS claims,11576.73,1232.41
+Queensland,307,Darling Downs - Maranoa,Respiratory medication prescriptions,1340.38,193.8
+Queensland,307,Darling Downs - Maranoa,Respiratory test MBS claims,67.19,15.29
+Queensland,307,Darling Downs - Maranoa,Salbutamol prescriptions,396.25,61.94
+Queensland,308,Central Queensland,All GP MBS claims,12349.05,1317.37
+Queensland,308,Central Queensland,Respiratory medication prescriptions,1207.95,124.14
+Queensland,308,Central Queensland,Respiratory test MBS claims,66.13,18.56
+Queensland,308,Central Queensland,Salbutamol prescriptions,325.24,39.55
+Queensland,309,Gold Coast,All GP MBS claims,14196.99,1664.66
+Queensland,309,Gold Coast,Respiratory medication prescriptions,1002.55,101.6
+Queensland,309,Gold Coast,Respiratory test MBS claims,67.7,10.65
+Queensland,309,Gold Coast,Salbutamol prescriptions,264.69,48.94
+Queensland,310,Ipswich,All GP MBS claims,14728.06,1794.9
+Queensland,310,Ipswich,Respiratory medication prescriptions,1388.84,127.93
+Queensland,310,Ipswich,Respiratory test MBS claims,73.98,15.83
+Queensland,310,Ipswich,Salbutamol prescriptions,421.68,77.62
+Queensland,311,Logan - Beaudesert,All GP MBS claims,16022.77,1875.0
+Queensland,311,Logan - Beaudesert,Respiratory medication prescriptions,1392.91,112.78
+Queensland,311,Logan - Beaudesert,Respiratory test MBS claims,87.79,23.86
+Queensland,311,Logan - Beaudesert,Salbutamol prescriptions,410.73,75.66
+Queensland,312,Mackay - Isaac - Whitsunday,All GP MBS claims,11137.77,1760.7
+Queensland,312,Mackay - Isaac - Whitsunday,Respiratory medication prescriptions,1092.58,152.3
+Queensland,312,Mackay - Isaac - Whitsunday,Respiratory test MBS claims,67.48,16.16
+Queensland,312,Mackay - Isaac - Whitsunday,Salbutamol prescriptions,249.56,41.81
+Queensland,313,Moreton Bay - North,All GP MBS claims,14709.2,1286.29
+Queensland,313,Moreton Bay - North,Respiratory medication prescriptions,1305.19,51.94
+Queensland,313,Moreton Bay - North,Respiratory test MBS claims,78.06,11.28
+Queensland,313,Moreton Bay - North,Salbutamol prescriptions,387.49,28.18
+Queensland,314,Moreton Bay - South,All GP MBS claims,13864.28,1667.09
+Queensland,314,Moreton Bay - South,Respiratory medication prescriptions,1156.71,70.89
+Queensland,314,Moreton Bay - South,Respiratory test MBS claims,72.14,6.64
+Queensland,314,Moreton Bay - South,Salbutamol prescriptions,284.0,49.95
+Queensland,315,Queensland - Outback,All GP MBS claims,9371.15,855.94
+Queensland,315,Queensland - Outback,Respiratory medication prescriptions,1117.39,256.17
+Queensland,315,Queensland - Outback,Respiratory test MBS claims,42.87,8.72
+Queensland,315,Queensland - Outback,Salbutamol prescriptions,338.99,102.26
+Queensland,316,Sunshine Coast,All GP MBS claims,12575.83,1433.76
+Queensland,316,Sunshine Coast,Respiratory medication prescriptions,907.05,116.31
+Queensland,316,Sunshine Coast,Respiratory test MBS claims,71.01,14.07
+Queensland,316,Sunshine Coast,Salbutamol prescriptions,216.3,28.86
+Queensland,317,Toowoomba,All GP MBS claims,12565.24,1486.37
+Queensland,317,Toowoomba,Respiratory medication prescriptions,1231.09,117.19
+Queensland,317,Toowoomba,Respiratory test MBS claims,74.73,4.34
+Queensland,317,Toowoomba,Salbutamol prescriptions,356.8,56.84
+Queensland,318,Townsville,All GP MBS claims,12678.05,3884.72
+Queensland,318,Townsville,Respiratory medication prescriptions,1086.05,98.6
+Queensland,318,Townsville,Respiratory test MBS claims,77.73,28.93
+Queensland,318,Townsville,Salbutamol prescriptions,310.09,49.58
+Queensland,319,Wide Bay,All GP MBS claims,12505.82,1679.39
+Queensland,319,Wide Bay,Respiratory medication prescriptions,1324.46,34.69
+Queensland,319,Wide Bay,Respiratory test MBS claims,79.31,20.18
+Queensland,319,Wide Bay,Salbutamol prescriptions,378.84,21.51
+South Australia,401,Adelaide - Central and Hills,All GP MBS claims,10419.57,1573.5
+South Australia,401,Adelaide - Central and Hills,Respiratory medication prescriptions,878.82,128.05
+South Australia,401,Adelaide - Central and Hills,Respiratory test MBS claims,49.88,9.28
+South Australia,401,Adelaide - Central and Hills,Salbutamol prescriptions,281.81,69.34
+South Australia,402,Adelaide - North,All GP MBS claims,14191.21,1962.65
+South Australia,402,Adelaide - North,Respiratory medication prescriptions,1400.31,86.27
+South Australia,402,Adelaide - North,Respiratory test MBS claims,69.43,11.85
+South Australia,402,Adelaide - North,Salbutamol prescriptions,517.96,53.23
+South Australia,403,Adelaide - South,All GP MBS claims,11696.37,1600.0
+South Australia,403,Adelaide - South,Respiratory medication prescriptions,1177.54,169.18
+South Australia,403,Adelaide - South,Respiratory test MBS claims,55.4,5.83
+South Australia,403,Adelaide - South,Salbutamol prescriptions,392.47,59.2
+South Australia,404,Adelaide - West,All GP MBS claims,11898.33,1530.82
+South Australia,404,Adelaide - West,Respiratory medication prescriptions,1158.87,132.16
+South Australia,404,Adelaide - West,Respiratory test MBS claims,47.43,8.11
+South Australia,404,Adelaide - West,Salbutamol prescriptions,417.59,38.69
+South Australia,405,Barossa - Yorke - Mid North,All GP MBS claims,10783.96,1271.76
+South Australia,405,Barossa - Yorke - Mid North,Respiratory medication prescriptions,1407.02,116.41
+South Australia,405,Barossa - Yorke - Mid North,Respiratory test MBS claims,57.99,13.76
+South Australia,405,Barossa - Yorke - Mid North,Salbutamol prescriptions,520.99,49.3
+South Australia,406,South Australia - Outback,All GP MBS claims,11326.26,1124.36
+South Australia,406,South Australia - Outback,Respiratory medication prescriptions,1346.79,158.05
+South Australia,406,South Australia - Outback,Respiratory test MBS claims,53.11,22.39
+South Australia,406,South Australia - Outback,Salbutamol prescriptions,522.1,74.2
+South Australia,407,South Australia - South East,All GP MBS claims,10627.29,1086.32
+South Australia,407,South Australia - South East,Respiratory medication prescriptions,1298.84,115.57
+South Australia,407,South Australia - South East,Respiratory test MBS claims,54.9,9.4
+South Australia,407,South Australia - South East,Salbutamol prescriptions,444.18,56.15
+Tasmania,601,Hobart,All GP MBS claims,10218.56,21.28
+Tasmania,601,Hobart,Respiratory medication prescriptions,1193.17,106.04
+Tasmania,601,Hobart,Respiratory test MBS claims,46.6,6.77
+Tasmania,601,Hobart,Salbutamol prescriptions,319.73,22.7
+Tasmania,602,Launceston and North East,All GP MBS claims,9942.04,200.83
+Tasmania,602,Launceston and North East,Respiratory medication prescriptions,1406.78,227.97
+Tasmania,602,Launceston and North East,Respiratory test MBS claims,89.43,27.22
+Tasmania,602,Launceston and North East,Salbutamol prescriptions,381.24,71.28
+Tasmania,603,South East,All GP MBS claims,11288.11,422.22
+Tasmania,603,South East,Respiratory medication prescriptions,1435.22,62.99
+Tasmania,603,South East,Respiratory test MBS claims,57.77,16.97
+Tasmania,603,South East,Salbutamol prescriptions,439.6,83.19
+Tasmania,604,West and North West,All GP MBS claims,11346.57,215.05
+Tasmania,604,West and North West,Respiratory medication prescriptions,1633.32,136.4
+Tasmania,604,West and North West,Respiratory test MBS claims,86.75,41.36
+Tasmania,604,West and North West,Salbutamol prescriptions,529.76,84.32
+Victoria,201,Ballarat,All GP MBS claims,10952.44,659.72
+Victoria,201,Ballarat,Respiratory medication prescriptions,1273.01,224.93
+Victoria,201,Ballarat,Respiratory test MBS claims,53.75,16.41
+Victoria,201,Ballarat,Salbutamol prescriptions,337.25,84.64
+Victoria,202,Bendigo,All GP MBS claims,10806.93,315.88
+Victoria,202,Bendigo,Respiratory medication prescriptions,1086.41,109.26
+Victoria,202,Bendigo,Respiratory test MBS claims,67.96,27.48
+Victoria,202,Bendigo,Salbutamol prescriptions,274.32,37.31
+Victoria,203,Geelong,All GP MBS claims,11920.74,309.25
+Victoria,203,Geelong,Respiratory medication prescriptions,1160.87,151.11
+Victoria,203,Geelong,Respiratory test MBS claims,51.27,11.31
+Victoria,203,Geelong,Salbutamol prescriptions,298.06,63.04
+Victoria,204,Hume,All GP MBS claims,11282.47,341.56
+Victoria,204,Hume,Respiratory medication prescriptions,1188.3,345.28
+Victoria,204,Hume,Respiratory test MBS claims,66.92,17.51
+Victoria,204,Hume,Salbutamol prescriptions,309.85,124.62
+Victoria,205,Latrobe - Gippsland,All GP MBS claims,11566.79,745.27
+Victoria,205,Latrobe - Gippsland,Respiratory medication prescriptions,1247.44,211.13
+Victoria,205,Latrobe - Gippsland,Respiratory test MBS claims,61.24,18.58
+Victoria,205,Latrobe - Gippsland,Salbutamol prescriptions,328.91,79.39
+Victoria,206,Melbourne - Inner,All GP MBS claims,10272.58,579.21
+Victoria,206,Melbourne - Inner,Respiratory medication prescriptions,840.64,151.69
+Victoria,206,Melbourne - Inner,Respiratory test MBS claims,42.12,7.43
+Victoria,206,Melbourne - Inner,Salbutamol prescriptions,168.67,35.35
+Victoria,207,Melbourne - Inner East,All GP MBS claims,10597.44,655.25
+Victoria,207,Melbourne - Inner East,Respiratory medication prescriptions,721.11,200.17
+Victoria,207,Melbourne - Inner East,Respiratory test MBS claims,49.23,8.59
+Victoria,207,Melbourne - Inner East,Salbutamol prescriptions,129.1,35.05
+Victoria,208,Melbourne - Inner South,All GP MBS claims,10831.24,583.73
+Victoria,208,Melbourne - Inner South,Respiratory medication prescriptions,890.25,215.53
+Victoria,208,Melbourne - Inner South,Respiratory test MBS claims,55.57,13.4
+Victoria,208,Melbourne - Inner South,Salbutamol prescriptions,161.35,50.84
+Victoria,209,Melbourne - North East,All GP MBS claims,13273.53,523.83
+Victoria,209,Melbourne - North East,Respiratory medication prescriptions,934.1,149.04
+Victoria,209,Melbourne - North East,Respiratory test MBS claims,58.25,6.66
+Victoria,209,Melbourne - North East,Salbutamol prescriptions,242.35,45.0
+Victoria,210,Melbourne - North West,All GP MBS claims,15406.61,769.0
+Victoria,210,Melbourne - North West,Respiratory medication prescriptions,1195.37,188.09
+Victoria,210,Melbourne - North West,Respiratory test MBS claims,60.17,8.48
+Victoria,210,Melbourne - North West,Salbutamol prescriptions,375.13,77.15
+Victoria,211,Melbourne - Outer East,All GP MBS claims,12998.75,709.03
+Victoria,211,Melbourne - Outer East,Respiratory medication prescriptions,1061.87,244.31
+Victoria,211,Melbourne - Outer East,Respiratory test MBS claims,63.24,6.87
+Victoria,211,Melbourne - Outer East,Salbutamol prescriptions,216.96,74.23
+Victoria,212,Melbourne - South East,All GP MBS claims,13742.09,691.43
+Victoria,212,Melbourne - South East,Respiratory medication prescriptions,1030.6,176.13
+Victoria,212,Melbourne - South East,Respiratory test MBS claims,50.77,8.27
+Victoria,212,Melbourne - South East,Salbutamol prescriptions,262.33,58.04
+Victoria,213,Melbourne - West,All GP MBS claims,14453.81,662.17
+Victoria,213,Melbourne - West,Respiratory medication prescriptions,1129.35,142.24
+Victoria,213,Melbourne - West,Respiratory test MBS claims,52.4,11.86
+Victoria,213,Melbourne - West,Salbutamol prescriptions,347.4,64.98
+Victoria,214,Mornington Peninsula,All GP MBS claims,13397.2,407.99
+Victoria,214,Mornington Peninsula,Respiratory medication prescriptions,1121.56,209.57
+Victoria,214,Mornington Peninsula,Respiratory test MBS claims,47.7,9.26
+Victoria,214,Mornington Peninsula,Salbutamol prescriptions,257.66,70.42
+Victoria,215,North West,All GP MBS claims,10806.95,446.41
+Victoria,215,North West,Respiratory medication prescriptions,1410.64,147.31
+Victoria,215,North West,Respiratory test MBS claims,52.84,10.92
+Victoria,215,North West,Salbutamol prescriptions,432.88,61.08
+Victoria,216,Shepparton,All GP MBS claims,12742.98,678.6
+Victoria,216,Shepparton,Respiratory medication prescriptions,1321.73,162.98
+Victoria,216,Shepparton,Respiratory test MBS claims,65.43,18.5
+Victoria,216,Shepparton,Salbutamol prescriptions,336.65,80.22
+Victoria,217,Warrnambool and South West,All GP MBS claims,10863.55,523.16
+Victoria,217,Warrnambool and South West,Respiratory medication prescriptions,1222.57,152.89
+Victoria,217,Warrnambool and South West,Respiratory test MBS claims,54.87,23.48
+Victoria,217,Warrnambool and South West,Salbutamol prescriptions,325.17,35.76
+Western Australia,501,Bunbury,All GP MBS claims,11947.26,2248.75
+Western Australia,501,Bunbury,Respiratory medication prescriptions,878.01,21.87
+Western Australia,501,Bunbury,Respiratory test MBS claims,52.76,13.57
+Western Australia,501,Bunbury,Salbutamol prescriptions,155.96,15.4
+Western Australia,502,Mandurah,All GP MBS claims,13578.36,2287.93
+Western Australia,502,Mandurah,Respiratory medication prescriptions,906.1,0.01
+Western Australia,502,Mandurah,Respiratory test MBS claims,84.25,19.21
+Western Australia,502,Mandurah,Salbutamol prescriptions,202.23,3.22
+Western Australia,503,Perth - Inner,All GP MBS claims,9065.45,1569.52
+Western Australia,503,Perth - Inner,Respiratory medication prescriptions,676.47,78.97
+Western Australia,503,Perth - Inner,Respiratory test MBS claims,62.67,13.11
+Western Australia,503,Perth - Inner,Salbutamol prescriptions,85.09,11.55
+Western Australia,504,Perth - North East,All GP MBS claims,11525.23,1776.62
+Western Australia,504,Perth - North East,Respiratory medication prescriptions,886.24,54.22
+Western Australia,504,Perth - North East,Respiratory test MBS claims,55.5,8.36
+Western Australia,504,Perth - North East,Salbutamol prescriptions,175.45,15.72
+Western Australia,505,Perth - North West,All GP MBS claims,11835.03,1920.05
+Western Australia,505,Perth - North West,Respiratory medication prescriptions,810.66,100.41
+Western Australia,505,Perth - North West,Respiratory test MBS claims,51.64,11.01
+Western Australia,505,Perth - North West,Salbutamol prescriptions,147.22,21.98
+Western Australia,506,Perth - South East,All GP MBS claims,11832.91,1864.19
+Western Australia,506,Perth - South East,Respiratory medication prescriptions,836.34,103.22
+Western Australia,506,Perth - South East,Respiratory test MBS claims,58.01,7.29
+Western Australia,506,Perth - South East,Salbutamol prescriptions,165.2,19.48
+Western Australia,507,Perth - South West,All GP MBS claims,12048.04,2039.72
+Western Australia,507,Perth - South West,Respiratory medication prescriptions,784.8,85.05
+Western Australia,507,Perth - South West,Respiratory test MBS claims,61.68,2.03
+Western Australia,507,Perth - South West,Salbutamol prescriptions,152.71,10.54
+Western Australia,509,Western Australia - Wheat Belt,All GP MBS claims,10065.66,2086.81
+Western Australia,509,Western Australia - Wheat Belt,Respiratory medication prescriptions,965.39,81.48
+Western Australia,509,Western Australia - Wheat Belt,Respiratory test MBS claims,64.22,18.21
+Western Australia,509,Western Australia - Wheat Belt,Salbutamol prescriptions,212.76,17.55
+Western Australia,510,Western Australia - Outback (North),All GP MBS claims,7373.4,585.68
+Western Australia,510,Western Australia - Outback (North),Respiratory medication prescriptions,698.47,276.37
+Western Australia,510,Western Australia - Outback (North),Respiratory test MBS claims,71.67,26.6
+Western Australia,510,Western Australia - Outback (North),Salbutamol prescriptions,171.31,85.41
+Western Australia,511,Western Australia - Outback (South),All GP MBS claims,9843.66,1464.42
+Western Australia,511,Western Australia - Outback (South),Respiratory medication prescriptions,1125.73,161.87
+Western Australia,511,Western Australia - Outback (South),Respiratory test MBS claims,94.43,46.6
+Western Australia,511,Western Australia - Outback (South),Salbutamol prescriptions,257.43,44.12

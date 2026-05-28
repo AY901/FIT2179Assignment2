@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 320,
+  "title": "Daily fire count and fire radiative power rose together",
+  "data": {"url": "data/fire_daily.csv"},
+  "layer": [
+    {
+      "mark": {"type": "area", "color": "#f3a261", "opacity": 0.55},
+      "encoding": {
+        "x": {"field": "date", "type": "temporal", "title": null},
+        "y": {"field": "total_frp", "type": "quantitative", "title": "Total FRP"}
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "#8c1d18", "strokeWidth": 2},
+      "encoding": {
+        "x": {"field": "date", "type": "temporal"},
+        "y": {"field": "fire_count", "type": "quantitative", "title": "Fire detections"},
+        "tooltip": [
+          {"field": "date", "type": "temporal"},
+          {"field": "fire_count", "type": "quantitative"},
+          {"field": "total_frp", "type": "quantitative"}
+        ]
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}}
+}

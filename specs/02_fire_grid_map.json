@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 360,
+  "title": "Fire intensity aggregated into half-degree grid cells",
+  "projection": {"type": "mercator", "center": [134, -28], "scale": 520},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vega/vega-datasets/main/data/world-110m.json",
+        "format": {"type": "topojson", "feature": "countries"}
+      },
+      "mark": {"type": "geoshape", "fill": "#f6f2ea", "stroke": "#c8c0b4", "strokeWidth": 0.4}
+    },
+    {
+      "data": {"url": "data/fire_grid.csv"},
+      "mark": {"type": "square", "opacity": 0.72},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "size": {"field": "fire_count", "type": "quantitative", "scale": {"range": [6, 220]}},
+        "color": {"field": "total_frp", "type": "quantitative", "scale": {"scheme": "reds", "type": "sqrt"}, "legend": {"title": "Total FRP"}},
+        "tooltip": [
+          {"field": "fire_count", "type": "quantitative", "title": "Fire detections"},
+          {"field": "total_frp", "type": "quantitative", "title": "Total FRP"},
+          {"field": "avg_confidence", "type": "quantitative", "title": "Avg confidence"}
+        ]
+      }
+    }
+  ]
+}

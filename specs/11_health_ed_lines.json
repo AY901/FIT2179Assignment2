@@ -1,0 +1,24 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 340,
+  "title": "NSW emergency presentations: 2019-20 compared with earlier seasons",
+  "data": {"url": "data/health_nsw_weekly.csv"},
+  "transform": [
+    {"filter": "datum.diagnosis == 'Diseases of the respiratory system' || datum.diagnosis == 'Asthma'"},
+    {"filter": "datum.season == '2018-19' || datum.season == '2019-20'"}
+  ],
+  "mark": {"type": "line", "point": true},
+  "encoding": {
+    "x": {"field": "week_index", "type": "ordinal", "title": "Week of bushfire analysis period"},
+    "y": {"field": "asr", "type": "quantitative", "title": "Age-standardised rate"},
+    "color": {"field": "season", "type": "nominal", "scale": {"range": ["#59656f", "#c73e1d"]}},
+    "strokeDash": {"field": "diagnosis", "type": "nominal"},
+    "tooltip": [
+      {"field": "week_label", "type": "nominal", "title": "Week"},
+      {"field": "diagnosis", "type": "nominal"},
+      {"field": "season", "type": "nominal"},
+      {"field": "asr", "type": "quantitative", "format": ".1f"}
+    ]
+  }
+}

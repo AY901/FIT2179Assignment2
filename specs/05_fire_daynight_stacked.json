@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 300,
+  "title": "Day and night fire detections by month",
+  "data": {"url": "data/fire_monthly.csv"},
+  "transform": [
+    {"fold": ["day_count", "night_count"], "as": ["period", "detections"]},
+    {"calculate": "datum.period == 'day_count' ? 'Day' : 'Night'", "as": "Detection period"}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "month", "type": "ordinal", "title": "Month"},
+    "y": {"field": "detections", "type": "quantitative", "title": "Fire detections"},
+    "color": {"field": "Detection period", "type": "nominal", "scale": {"range": ["#d95f02", "#59656f"]}},
+    "tooltip": [
+      {"field": "month", "type": "ordinal"},
+      {"field": "Detection period", "type": "nominal"},
+      {"field": "detections", "type": "quantitative"}
+    ]
+  }
+}

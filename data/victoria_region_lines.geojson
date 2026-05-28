@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Western Victoria guide"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[142.05, -34.75], [142.15, -35.6], [142.7, -36.35], [143.05, -37.05], [143.15, -37.85]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Central Victoria guide"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[143.75, -34.95], [144.0, -35.8], [144.35, -36.55], [144.65, -37.25], [144.75, -38.0]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Melbourne fringe guide"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[145.35, -35.2], [145.25, -36.0], [145.1, -36.75], [144.95, -37.45], [144.85, -38.15]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gippsland guide"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[146.75, -35.15], [146.6, -35.95], [146.45, -36.75], [146.35, -37.45], [146.25, -38.35]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "North Victoria guide"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[141.45, -35.65], [142.8, -35.75], [144.3, -35.8], [145.8, -35.75], [147.15, -35.7], [148.25, -35.65]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Mid Victoria guide"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[141.85, -36.8], [143.05, -36.95], [144.3, -37.0], [145.55, -36.95], [146.75, -36.85], [147.85, -36.8]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Southern Victoria guide"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[142.35, -38.05], [143.65, -38.0], [144.85, -37.9], [146.1, -38.05], [147.2, -38.25]]
+      }
+    }
+  ]
+}

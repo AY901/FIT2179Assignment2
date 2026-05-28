@@ -1,0 +1,27 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Overview and detail: brush the lower chart to inspect peak fire periods",
+  "data": {"url": "data/fire_daily.csv"},
+  "vconcat": [
+    {
+      "width": "container",
+      "height": 240,
+      "transform": [{"filter": {"param": "brush"}}],
+      "mark": {"type": "area", "color": "#c73e1d", "opacity": 0.72},
+      "encoding": {
+        "x": {"field": "date", "type": "temporal", "title": null},
+        "y": {"field": "fire_count", "type": "quantitative", "title": "Daily detections"}
+      }
+    },
+    {
+      "width": "container",
+      "height": 70,
+      "params": [{"name": "brush", "select": {"type": "interval", "encodings": ["x"]}}],
+      "mark": {"type": "area", "color": "#59656f"},
+      "encoding": {
+        "x": {"field": "date", "type": "temporal", "title": null},
+        "y": {"field": "fire_count", "type": "quantitative", "axis": {"tickCount": 3}, "title": null}
+      }
+    }
+  ]
+}

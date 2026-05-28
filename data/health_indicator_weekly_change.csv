@@ -1,0 +1,781 @@
+week_index,week_label,week_start_2019_20,diagnosis,2017-18,2017-18(x),2018-19,2019-20,asr_change_vs_2018_19,pct_change_vs_2018_19
+1,1-7 September,2019-09-01,Abnormalities of breathing,7.85,,8.13,8.84,0.71,8.7
+1,1-7 September,2019-09-01,Acute myocardial infarction,2.51,,2.53,2.67,0.14,5.5
+1,1-7 September,2019-09-01,Asthma,6.36,,6.86,6.96,0.1,1.5
+1,1-7 September,2019-09-01,COPD with acute exacerbation,1.84,,1.68,2.18,0.5,29.8
+1,1-7 September,2019-09-01,Cardiovascular diseases,19.01,,15.05,15.34,0.29,1.9
+1,1-7 September,2019-09-01,Cerebrovascular diseases,,1.64,2.94,2.92,-0.02,-0.7
+1,1-7 September,2019-09-01,Chest pain,27.42,,28.44,27.96,-0.48,-1.7
+1,1-7 September,2019-09-01,Dehydration,1.6,,1.32,1.44,0.12,9.1
+1,1-7 September,2019-09-01,Diseases of the respiratory system,82.43,,63.65,69.53,5.88,9.2
+1,1-7 September,2019-09-01,Mental and behavioural disorders,22.42,,24.21,23.87,-0.34,-1.4
+2,8-14 September,2019-09-08,Abnormalities of breathing,8.01,,8.61,8.65,0.04,0.5
+2,8-14 September,2019-09-08,Acute myocardial infarction,2.11,,2.54,2.27,-0.27,-10.6
+2,8-14 September,2019-09-08,Asthma,7.23,,6.63,6.41,-0.22,-3.3
+2,8-14 September,2019-09-08,COPD with acute exacerbation,1.59,,1.88,1.81,-0.07,-3.7
+2,8-14 September,2019-09-08,Cardiovascular diseases,18.88,,15.6,15.03,-0.57,-3.7
+2,8-14 September,2019-09-08,Cerebrovascular diseases,,1.22,2.83,2.76,-0.07,-2.5
+2,8-14 September,2019-09-08,Chest pain,26.46,,28.53,28.65,0.12,0.4
+2,8-14 September,2019-09-08,Dehydration,2.16,,1.17,1.44,0.27,23.1
+2,8-14 September,2019-09-08,Diseases of the respiratory system,79.53,,63.67,63.99,0.32,0.5
+2,8-14 September,2019-09-08,Mental and behavioural disorders,21.65,,25.21,24.07,-1.14,-4.5
+3,15-21 September,2019-09-15,Abnormalities of breathing,7.52,,8.18,8.61,0.43,5.3
+3,15-21 September,2019-09-15,Acute myocardial infarction,2.31,,2.34,2.82,0.48,20.5
+3,15-21 September,2019-09-15,Asthma,6.14,,5.79,6.36,0.57,9.8
+3,15-21 September,2019-09-15,COPD with acute exacerbation,1.65,,1.97,1.82,-0.15,-7.6
+3,15-21 September,2019-09-15,Cardiovascular diseases,17.98,,15.53,15.29,-0.24,-1.5
+3,15-21 September,2019-09-15,Cerebrovascular diseases,,1.53,3.12,3.07,-0.05,-1.6
+3,15-21 September,2019-09-15,Chest pain,25.78,,26.54,30.09,3.55,13.4
+3,15-21 September,2019-09-15,Dehydration,1.95,,1.3,1.53,0.23,17.7
+3,15-21 September,2019-09-15,Diseases of the respiratory system,74.7,,59.66,63.39,3.73,6.3
+3,15-21 September,2019-09-15,Mental and behavioural disorders,22.5,,25.65,24.98,-0.67,-2.6
+4,22-28 September,2019-09-22,Abnormalities of breathing,7.86,,8.29,8.92,0.63,7.6
+4,22-28 September,2019-09-22,Acute myocardial infarction,1.93,,2.5,2.24,-0.26,-10.4
+4,22-28 September,2019-09-22,Asthma,6.0,,5.94,6.17,0.23,3.9
+4,22-28 September,2019-09-22,COPD with acute exacerbation,1.58,,1.96,1.78,-0.18,-9.2
+4,22-28 September,2019-09-22,Cardiovascular diseases,16.86,,15.11,15.07,-0.04,-0.3
+4,22-28 September,2019-09-22,Cerebrovascular diseases,,1.3,3.15,3.11,-0.04,-1.3
+4,22-28 September,2019-09-22,Chest pain,24.7,,26.41,29.47,3.06,11.6
+4,22-28 September,2019-09-22,Dehydration,2.17,,1.42,1.35,-0.07,-4.9
+4,22-28 September,2019-09-22,Diseases of the respiratory system,70.69,,58.52,61.27,2.75,4.7
+4,22-28 September,2019-09-22,Mental and behavioural disorders,22.4,,24.68,25.8,1.12,4.5
+5,29 September-5 October,2019-09-29,Abnormalities of breathing,7.34,,7.8,8.87,1.07,13.7
+5,29 September-5 October,2019-09-29,Acute myocardial infarction,1.96,,2.53,2.57,0.04,1.6
+5,29 September-5 October,2019-09-29,Asthma,5.49,,6.88,5.89,-0.99,-14.4
+5,29 September-5 October,2019-09-29,COPD with acute exacerbation,1.34,,1.8,1.7,-0.1,-5.6
+5,29 September-5 October,2019-09-29,Cardiovascular diseases,16.1,,14.94,15.62,0.68,4.6
+5,29 September-5 October,2019-09-29,Cerebrovascular diseases,,1.58,2.83,2.87,0.04,1.4
+5,29 September-5 October,2019-09-29,Chest pain,25.78,,25.49,26.51,1.02,4.0
+5,29 September-5 October,2019-09-29,Dehydration,1.93,,1.24,1.41,0.17,13.7
+5,29 September-5 October,2019-09-29,Diseases of the respiratory system,64.48,,62.16,61.1,-1.06,-1.7
+5,29 September-5 October,2019-09-29,Mental and behavioural disorders,22.18,,24.04,23.0,-1.04,-4.3
+6,6-12 October,2019-10-06,Abnormalities of breathing,7.12,,7.72,8.85,1.13,14.6
+6,6-12 October,2019-10-06,Acute myocardial infarction,2.02,,2.24,2.46,0.22,9.8
+6,6-12 October,2019-10-06,Asthma,4.43,,4.79,5.26,0.47,9.8
+6,6-12 October,2019-10-06,COPD with acute exacerbation,1.14,,2.01,2.01,0.0,0.0
+6,6-12 October,2019-10-06,Cardiovascular diseases,16.84,,15.33,14.12,-1.21,-7.9
+6,6-12 October,2019-10-06,Cerebrovascular diseases,,1.31,3.39,2.97,-0.42,-12.4
+6,6-12 October,2019-10-06,Chest pain,27.63,,29.18,28.59,-0.59,-2.0
+6,6-12 October,2019-10-06,Dehydration,1.47,,1.15,1.73,0.58,50.4
+6,6-12 October,2019-10-06,Diseases of the respiratory system,50.82,,51.22,57.99,6.77,13.2
+6,6-12 October,2019-10-06,Mental and behavioural disorders,22.93,,23.99,23.8,-0.19,-0.8
+7,13-19 October,2019-10-13,Abnormalities of breathing,7.09,,8.46,8.36,-0.1,-1.2
+7,13-19 October,2019-10-13,Acute myocardial infarction,1.72,,2.47,2.8,0.33,13.4
+7,13-19 October,2019-10-13,Asthma,5.16,,5.2,4.59,-0.61,-11.7
+7,13-19 October,2019-10-13,COPD with acute exacerbation,0.97,,1.82,1.75,-0.07,-3.8
+7,13-19 October,2019-10-13,Cardiovascular diseases,16.07,,15.47,15.78,0.31,2.0
+7,13-19 October,2019-10-13,Cerebrovascular diseases,,1.42,3.03,3.42,0.39,12.9
+7,13-19 October,2019-10-13,Chest pain,26.64,,28.33,30.07,1.74,6.1
+7,13-19 October,2019-10-13,Dehydration,1.37,,0.98,1.33,0.35,35.7
+7,13-19 October,2019-10-13,Diseases of the respiratory system,44.92,,49.72,49.72,0.0,0.0
+7,13-19 October,2019-10-13,Mental and behavioural disorders,24.18,,26.11,24.83,-1.28,-4.9
+8,20-26 October,2019-10-20,Abnormalities of breathing,8.12,,7.75,8.42,0.67,8.6
+8,20-26 October,2019-10-20,Acute myocardial infarction,1.99,,2.37,2.5,0.13,5.5
+8,20-26 October,2019-10-20,Asthma,7.58,,6.33,5.36,-0.97,-15.3
+8,20-26 October,2019-10-20,COPD with acute exacerbation,0.84,,1.9,1.78,-0.12,-6.3
+8,20-26 October,2019-10-20,Cardiovascular diseases,16.03,,15.19,14.37,-0.82,-5.4
+8,20-26 October,2019-10-20,Cerebrovascular diseases,,1.4,3.19,2.81,-0.38,-11.9
+8,20-26 October,2019-10-20,Chest pain,25.82,,26.85,26.85,0.0,0.0
+8,20-26 October,2019-10-20,Dehydration,1.35,,1.14,1.58,0.44,38.6
+8,20-26 October,2019-10-20,Diseases of the respiratory system,48.33,,48.26,49.33,1.07,2.2
+8,20-26 October,2019-10-20,Mental and behavioural disorders,23.96,,26.85,24.79,-2.06,-7.7
+9,27 October-2 November,2019-10-27,Abnormalities of breathing,8.62,,7.92,8.26,0.34,4.3
+9,27 October-2 November,2019-10-27,Acute myocardial infarction,1.83,,2.2,2.37,0.17,7.7
+9,27 October-2 November,2019-10-27,Asthma,7.66,,6.26,6.6,0.34,5.4
+9,27 October-2 November,2019-10-27,COPD with acute exacerbation,1.06,,1.71,1.84,0.13,7.6
+9,27 October-2 November,2019-10-27,Cardiovascular diseases,16.31,,14.55,14.11,-0.44,-3.0
+9,27 October-2 November,2019-10-27,Cerebrovascular diseases,,1.39,2.82,3.0,0.18,6.4
+9,27 October-2 November,2019-10-27,Chest pain,25.66,,26.03,27.39,1.36,5.2
+9,27 October-2 November,2019-10-27,Dehydration,1.41,,1.58,1.16,-0.42,-26.6
+9,27 October-2 November,2019-10-27,Diseases of the respiratory system,49.68,,48.57,50.52,1.95,4.0
+9,27 October-2 November,2019-10-27,Mental and behavioural disorders,24.26,,27.25,25.52,-1.73,-6.3
+10,3-9 November,2019-11-03,Abnormalities of breathing,7.08,,8.03,8.15,0.12,1.5
+10,3-9 November,2019-11-03,Acute myocardial infarction,1.84,,2.41,2.11,-0.3,-12.4
+10,3-9 November,2019-11-03,Asthma,7.43,,7.1,7.1,0.0,0.0
+10,3-9 November,2019-11-03,COPD with acute exacerbation,0.88,,1.79,1.97,0.18,10.1
+10,3-9 November,2019-11-03,Cardiovascular diseases,16.09,,14.31,14.01,-0.3,-2.1
+10,3-9 November,2019-11-03,Cerebrovascular diseases,,1.45,2.74,2.95,0.21,7.7
+10,3-9 November,2019-11-03,Chest pain,26.09,,28.75,26.66,-2.09,-7.3
+10,3-9 November,2019-11-03,Dehydration,1.44,,1.98,1.34,-0.64,-32.3
+10,3-9 November,2019-11-03,Diseases of the respiratory system,47.43,,50.04,49.84,-0.2,-0.4
+10,3-9 November,2019-11-03,Mental and behavioural disorders,23.83,,27.9,27.51,-0.39,-1.4
+11,10-16 November,2019-11-10,Abnormalities of breathing,7.99,,7.82,8.46,0.64,8.2
+11,10-16 November,2019-11-10,Acute myocardial infarction,1.84,,2.27,2.34,0.07,3.1
+11,10-16 November,2019-11-10,Asthma,6.77,,6.13,7.88,1.75,28.5
+11,10-16 November,2019-11-10,COPD with acute exacerbation,1.11,,1.61,1.95,0.34,21.1
+11,10-16 November,2019-11-10,Cardiovascular diseases,16.58,,14.62,13.09,-1.53,-10.5
+11,10-16 November,2019-11-10,Cerebrovascular diseases,,1.57,3.02,2.99,-0.03,-1.0
+11,10-16 November,2019-11-10,Chest pain,26.18,,28.05,26.01,-2.04,-7.3
+11,10-16 November,2019-11-10,Dehydration,1.6,,1.48,1.41,-0.07,-4.7
+11,10-16 November,2019-11-10,Diseases of the respiratory system,48.45,,45.82,50.91,5.09,11.1
+11,10-16 November,2019-11-10,Mental and behavioural disorders,24.1,,26.21,23.9,-2.31,-8.8
+12,17-23 November,2019-11-17,Abnormalities of breathing,6.87,,7.92,8.71,0.79,10.0
+12,17-23 November,2019-11-17,Acute myocardial infarction,2.05,,2.39,2.18,-0.21,-8.8
+12,17-23 November,2019-11-17,Asthma,5.74,,6.58,8.63,2.05,31.2
+12,17-23 November,2019-11-17,COPD with acute exacerbation,0.88,,1.58,2.23,0.65,41.1
+12,17-23 November,2019-11-17,Cardiovascular diseases,16.06,,14.51,13.38,-1.13,-7.8
+12,17-23 November,2019-11-17,Cerebrovascular diseases,,1.37,2.95,2.73,-0.22,-7.5
+12,17-23 November,2019-11-17,Chest pain,27.27,,28.05,26.9,-1.15,-4.1
+12,17-23 November,2019-11-17,Dehydration,1.09,,1.44,1.9,0.46,31.9
+12,17-23 November,2019-11-17,Diseases of the respiratory system,45.12,,46.02,49.73,3.71,8.1
+12,17-23 November,2019-11-17,Mental and behavioural disorders,25.34,,25.64,24.76,-0.88,-3.4
+13,24-30 November,2019-11-24,Abnormalities of breathing,7.04,,7.66,8.91,1.25,16.3
+13,24-30 November,2019-11-24,Acute myocardial infarction,2.29,,2.45,2.34,-0.11,-4.5
+13,24-30 November,2019-11-24,Asthma,5.71,,6.26,6.34,0.08,1.3
+13,24-30 November,2019-11-24,COPD with acute exacerbation,1.1,,1.51,1.73,0.22,14.6
+13,24-30 November,2019-11-24,Cardiovascular diseases,16.91,,15.22,13.72,-1.5,-9.9
+13,24-30 November,2019-11-24,Cerebrovascular diseases,,1.44,2.9,2.79,-0.11,-3.8
+13,24-30 November,2019-11-24,Chest pain,25.14,,27.1,27.18,0.08,0.3
+13,24-30 November,2019-11-24,Dehydration,1.8,,1.01,1.53,0.52,51.5
+13,24-30 November,2019-11-24,Diseases of the respiratory system,44.32,,45.87,47.03,1.16,2.5
+13,24-30 November,2019-11-24,Mental and behavioural disorders,26.22,,24.87,26.73,1.86,7.5
+14,1-7 December,2019-12-01,Abnormalities of breathing,6.55,,7.97,8.79,0.82,10.3
+14,1-7 December,2019-12-01,Acute myocardial infarction,2.02,,2.56,2.4,-0.16,-6.3
+14,1-7 December,2019-12-01,Asthma,5.31,,6.02,8.19,2.17,36.0
+14,1-7 December,2019-12-01,COPD with acute exacerbation,0.8,,1.66,2.17,0.51,30.7
+14,1-7 December,2019-12-01,Cardiovascular diseases,16.26,,14.95,13.53,-1.42,-9.5
+14,1-7 December,2019-12-01,Cerebrovascular diseases,,1.61,3.04,2.9,-0.14,-4.6
+14,1-7 December,2019-12-01,Chest pain,24.62,,28.41,27.93,-0.48,-1.7
+14,1-7 December,2019-12-01,Dehydration,1.47,,1.78,1.69,-0.09,-5.1
+14,1-7 December,2019-12-01,Diseases of the respiratory system,40.23,,44.8,50.3,5.5,12.3
+14,1-7 December,2019-12-01,Mental and behavioural disorders,24.36,,27.0,25.18,-1.82,-6.7
+15,8-14 December,2019-12-08,Abnormalities of breathing,8.05,,7.72,9.52,1.8,23.3
+15,8-14 December,2019-12-08,Acute myocardial infarction,2.18,,2.62,2.58,-0.04,-1.5
+15,8-14 December,2019-12-08,Asthma,5.18,,5.61,8.49,2.88,51.3
+15,8-14 December,2019-12-08,COPD with acute exacerbation,0.83,,1.71,2.11,0.4,23.4
+15,8-14 December,2019-12-08,Cardiovascular diseases,15.71,,14.08,13.82,-0.26,-1.8
+15,8-14 December,2019-12-08,Cerebrovascular diseases,,1.79,2.94,2.88,-0.06,-2.0
+15,8-14 December,2019-12-08,Chest pain,23.41,,27.75,28.79,1.04,3.7
+15,8-14 December,2019-12-08,Dehydration,1.74,,1.38,1.96,0.58,42.0
+15,8-14 December,2019-12-08,Diseases of the respiratory system,41.68,,43.67,51.3,7.63,17.5
+15,8-14 December,2019-12-08,Mental and behavioural disorders,24.99,,26.36,24.96,-1.4,-5.3
+16,15-21 December,2019-12-15,Abnormalities of breathing,7.27,,7.38,8.79,1.41,19.1
+16,15-21 December,2019-12-15,Acute myocardial infarction,1.92,,2.51,2.46,-0.05,-2.0
+16,15-21 December,2019-12-15,Asthma,5.87,,4.85,7.27,2.42,49.9
+16,15-21 December,2019-12-15,COPD with acute exacerbation,0.95,,1.6,1.87,0.27,16.9
+16,15-21 December,2019-12-15,Cardiovascular diseases,15.26,,14.22,13.78,-0.44,-3.1
+16,15-21 December,2019-12-15,Cerebrovascular diseases,,1.56,2.76,2.7,-0.06,-2.2
+16,15-21 December,2019-12-15,Chest pain,24.86,,28.12,25.86,-2.26,-8.0
+16,15-21 December,2019-12-15,Dehydration,2.59,,1.63,2.63,1.0,61.3
+16,15-21 December,2019-12-15,Diseases of the respiratory system,44.07,,42.22,51.48,9.26,21.9
+16,15-21 December,2019-12-15,Mental and behavioural disorders,24.0,,27.13,25.09,-2.04,-7.5
+17,22-28 December,2019-12-22,Abnormalities of breathing,7.8,,8.28,7.81,-0.47,-5.7
+17,22-28 December,2019-12-22,Acute myocardial infarction,1.8,,2.23,2.32,0.09,4.0
+17,22-28 December,2019-12-22,Asthma,6.09,,6.13,6.26,0.13,2.1
+17,22-28 December,2019-12-22,COPD with acute exacerbation,1.12,,1.75,2.1,0.35,20.0
+17,22-28 December,2019-12-22,Cardiovascular diseases,15.15,,12.74,12.35,-0.39,-3.1
+17,22-28 December,2019-12-22,Cerebrovascular diseases,,1.36,2.74,2.97,0.23,8.4
+17,22-28 December,2019-12-22,Chest pain,22.78,,22.84,24.29,1.45,6.3
+17,22-28 December,2019-12-22,Dehydration,2.0,,1.92,2.0,0.08,4.2
+17,22-28 December,2019-12-22,Diseases of the respiratory system,54.87,,55.38,59.97,4.59,8.3
+17,22-28 December,2019-12-22,Mental and behavioural disorders,24.78,,24.37,24.58,0.21,0.9
+18,29 December-4 January,2019-12-29,Abnormalities of breathing,6.73,,7.43,8.69,1.26,17.0
+18,29 December-4 January,2019-12-29,Acute myocardial infarction,2.2,,2.5,2.69,0.19,7.6
+18,29 December-4 January,2019-12-29,Asthma,4.98,,4.37,6.87,2.5,57.2
+18,29 December-4 January,2019-12-29,COPD with acute exacerbation,1.01,,1.85,2.48,0.63,34.1
+18,29 December-4 January,2019-12-29,Cardiovascular diseases,15.8,,14.23,14.06,-0.17,-1.2
+18,29 December-4 January,2019-12-29,Cerebrovascular diseases,,1.43,2.88,2.79,-0.09,-3.1
+18,29 December-4 January,2019-12-29,Chest pain,25.79,,27.74,26.68,-1.06,-3.8
+18,29 December-4 January,2019-12-29,Dehydration,1.81,,2.83,2.63,-0.2,-7.1
+18,29 December-4 January,2019-12-29,Diseases of the respiratory system,49.42,,50.94,57.67,6.73,13.2
+18,29 December-4 January,2019-12-29,Mental and behavioural disorders,26.59,,30.19,27.71,-2.48,-8.2
+19,5-11 January,2020-01-05,Abnormalities of breathing,6.29,,7.4,8.3,0.9,12.2
+19,5-11 January,2020-01-05,Acute myocardial infarction,2.13,,2.14,2.26,0.12,5.6
+19,5-11 January,2020-01-05,Asthma,4.51,,4.43,5.8,1.37,30.9
+19,5-11 January,2020-01-05,COPD with acute exacerbation,0.88,,1.56,2.1,0.54,34.6
+19,5-11 January,2020-01-05,Cardiovascular diseases,15.42,,14.08,13.4,-0.68,-4.8
+19,5-11 January,2020-01-05,Cerebrovascular diseases,,1.45,3.1,3.11,0.01,0.3
+19,5-11 January,2020-01-05,Chest pain,25.35,,27.44,28.95,1.51,5.5
+19,5-11 January,2020-01-05,Dehydration,2.24,,1.62,2.01,0.39,24.1
+19,5-11 January,2020-01-05,Diseases of the respiratory system,39.3,,39.67,43.7,4.03,10.2
+19,5-11 January,2020-01-05,Mental and behavioural disorders,24.48,,25.41,24.32,-1.09,-4.3
+20,12-18 January,2020-01-12,Abnormalities of breathing,6.05,,7.38,7.36,-0.02,-0.3
+20,12-18 January,2020-01-12,Acute myocardial infarction,2.23,,1.98,2.2,0.22,11.1
+20,12-18 January,2020-01-12,Asthma,3.62,,4.12,4.34,0.22,5.3
+20,12-18 January,2020-01-12,COPD with acute exacerbation,0.92,,1.15,1.88,0.73,63.5
+20,12-18 January,2020-01-12,Cardiovascular diseases,16.18,,13.39,14.36,0.97,7.2
+20,12-18 January,2020-01-12,Cerebrovascular diseases,,1.45,3.01,2.87,-0.14,-4.7
+20,12-18 January,2020-01-12,Chest pain,26.68,,27.46,27.59,0.13,0.5
+20,12-18 January,2020-01-12,Dehydration,1.64,,2.8,1.49,-1.31,-46.8
+20,12-18 January,2020-01-12,Diseases of the respiratory system,34.71,,35.66,36.97,1.31,3.7
+20,12-18 January,2020-01-12,Mental and behavioural disorders,23.5,,25.77,23.39,-2.38,-9.2
+21,19-25 January,2020-01-19,Abnormalities of breathing,6.58,,7.42,8.13,0.71,9.6
+21,19-25 January,2020-01-19,Acute myocardial infarction,1.93,,2.46,2.83,0.37,15.0
+21,19-25 January,2020-01-19,Asthma,4.12,,4.26,4.34,0.08,1.9
+21,19-25 January,2020-01-19,COPD with acute exacerbation,0.85,,1.52,2.02,0.5,32.9
+21,19-25 January,2020-01-19,Cardiovascular diseases,15.39,,13.82,14.74,0.92,6.7
+21,19-25 January,2020-01-19,Cerebrovascular diseases,,1.25,3.08,3.29,0.21,6.8
+21,19-25 January,2020-01-19,Chest pain,25.15,,28.09,29.87,1.78,6.3
+21,19-25 January,2020-01-19,Dehydration,2.58,,2.66,1.55,-1.11,-41.7
+21,19-25 January,2020-01-19,Diseases of the respiratory system,35.75,,37.25,40.75,3.5,9.4
+21,19-25 January,2020-01-19,Mental and behavioural disorders,25.18,,25.03,24.7,-0.33,-1.3
+22,26 January-1 February,2020-01-26,Abnormalities of breathing,7.6,,8.38,8.96,0.58,6.9
+22,26 January-1 February,2020-01-26,Acute myocardial infarction,2.02,,2.29,2.36,0.07,3.1
+22,26 January-1 February,2020-01-26,Asthma,4.05,,4.91,4.64,-0.27,-5.5
+22,26 January-1 February,2020-01-26,COPD with acute exacerbation,0.63,,1.27,1.7,0.43,33.9
+22,26 January-1 February,2020-01-26,Cardiovascular diseases,14.81,,12.99,13.21,0.22,1.7
+22,26 January-1 February,2020-01-26,Cerebrovascular diseases,,1.47,2.55,3.09,0.54,21.2
+22,26 January-1 February,2020-01-26,Chest pain,26.01,,26.58,29.3,2.72,10.2
+22,26 January-1 February,2020-01-26,Dehydration,1.97,,2.45,2.13,-0.32,-13.1
+22,26 January-1 February,2020-01-26,Diseases of the respiratory system,37.47,,42.92,52.37,9.45,22.0
+22,26 January-1 February,2020-01-26,Mental and behavioural disorders,25.48,,27.43,25.67,-1.76,-6.4
+23,2-8 February,2020-02-02,Abnormalities of breathing,7.83,,9.72,7.76,-1.96,-20.2
+23,2-8 February,2020-02-02,Acute myocardial infarction,2.07,,1.93,2.36,0.43,22.3
+23,2-8 February,2020-02-02,Asthma,6.11,,5.67,5.17,-0.5,-8.8
+23,2-8 February,2020-02-02,COPD with acute exacerbation,0.73,,1.34,1.73,0.39,29.1
+23,2-8 February,2020-02-02,Cardiovascular diseases,14.83,,13.6,13.48,-0.12,-0.9
+23,2-8 February,2020-02-02,Cerebrovascular diseases,,1.25,3.1,2.84,-0.26,-8.4
+23,2-8 February,2020-02-02,Chest pain,25.51,,28.29,27.63,-0.66,-2.3
+23,2-8 February,2020-02-02,Dehydration,1.22,,1.83,1.72,-0.11,-6.0
+23,2-8 February,2020-02-02,Diseases of the respiratory system,38.74,,43.14,46.86,3.72,8.6
+23,2-8 February,2020-02-02,Mental and behavioural disorders,24.26,,25.73,22.61,-3.12,-12.1
+24,9-15 February,2020-02-09,Abnormalities of breathing,9.25,,10.53,9.94,-0.59,-5.6
+24,9-15 February,2020-02-09,Acute myocardial infarction,2.15,,2.11,2.55,0.44,20.9
+24,9-15 February,2020-02-09,Asthma,8.74,,8.54,5.63,-2.91,-34.1
+24,9-15 February,2020-02-09,COPD with acute exacerbation,0.92,,1.46,1.52,0.06,4.1
+24,9-15 February,2020-02-09,Cardiovascular diseases,15.98,,13.71,14.1,0.39,2.8
+24,9-15 February,2020-02-09,Cerebrovascular diseases,,1.44,2.98,2.86,-0.12,-4.0
+24,9-15 February,2020-02-09,Chest pain,26.44,,26.89,29.66,2.77,10.3
+24,9-15 February,2020-02-09,Dehydration,1.52,,1.63,1.25,-0.38,-23.3
+24,9-15 February,2020-02-09,Diseases of the respiratory system,45.34,,49.41,46.2,-3.21,-6.5
+24,9-15 February,2020-02-09,Mental and behavioural disorders,25.56,,26.04,24.12,-1.92,-7.4
+25,16-22 February,2020-02-16,Abnormalities of breathing,9.01,,10.24,10.03,-0.21,-2.1
+25,16-22 February,2020-02-16,Acute myocardial infarction,1.85,,2.46,2.35,-0.11,-4.5
+25,16-22 February,2020-02-16,Asthma,7.55,,8.98,7.25,-1.73,-19.3
+25,16-22 February,2020-02-16,COPD with acute exacerbation,0.79,,1.53,1.66,0.13,8.5
+25,16-22 February,2020-02-16,Cardiovascular diseases,14.94,,14.1,13.78,-0.32,-2.3
+25,16-22 February,2020-02-16,Cerebrovascular diseases,,1.38,2.91,2.95,0.04,1.4
+25,16-22 February,2020-02-16,Chest pain,26.68,,29.9,28.62,-1.28,-4.3
+25,16-22 February,2020-02-16,Dehydration,1.39,,1.44,1.53,0.09,6.3
+25,16-22 February,2020-02-16,Diseases of the respiratory system,43.75,,52.5,54.36,1.86,3.5
+25,16-22 February,2020-02-16,Mental and behavioural disorders,25.44,,26.12,24.26,-1.86,-7.1
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Abnormalities of breathing,8.27,,10.16,9.56,-0.6,-5.9
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Acute myocardial infarction,2.22,,2.37,2.16,-0.21,-8.9
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Asthma,6.98,,8.51,6.34,-2.17,-25.5
+26,23 Feb-1 Mar/29 Feb,2020-02-23,COPD with acute exacerbation,0.78,,1.2,1.49,0.29,24.2
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Cardiovascular diseases,16.55,,14.21,13.37,-0.84,-5.9
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Cerebrovascular diseases,,1.49,2.96,2.67,-0.29,-9.8
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Chest pain,26.97,,30.51,27.08,-3.43,-11.2
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Dehydration,1.4,,1.38,1.13,-0.25,-18.1
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Diseases of the respiratory system,43.13,,51.22,55.09,3.87,7.6
+26,23 Feb-1 Mar/29 Feb,2020-02-23,Mental and behavioural disorders,25.22,,27.19,24.6,-2.59,-9.5
+31,1-7 September,2020-03-29,Abnormalities of breathing,8.16,,8.69,9.25,0.56,6.4
+31,1-7 September,2020-03-29,Acute myocardial infarction,3.61,,3.63,3.63,0.0,0.0
+31,1-7 September,2020-03-29,Asthma,5.75,,6.32,6.26,-0.06,-0.9
+31,1-7 September,2020-03-29,COPD with acute exacerbation,2.01,,1.95,2.37,0.42,21.5
+31,1-7 September,2020-03-29,Cardiovascular diseases,22.14,,17.33,18.08,0.75,4.3
+31,1-7 September,2020-03-29,Cerebrovascular diseases,,2.02,3.47,3.64,0.17,4.9
+31,1-7 September,2020-03-29,Chest pain,29.2,,30.28,29.94,-0.34,-1.1
+31,1-7 September,2020-03-29,Dehydration,1.39,,1.25,1.23,-0.02,-1.6
+31,1-7 September,2020-03-29,Diseases of the respiratory system,83.44,,66.56,71.51,4.95,7.4
+31,1-7 September,2020-03-29,Mental and behavioural disorders,24.35,,27.09,26.22,-0.87,-3.2
+32,8-14 September,2020-04-05,Abnormalities of breathing,8.65,,9.39,9.17,-0.22,-2.3
+32,8-14 September,2020-04-05,Acute myocardial infarction,2.76,,3.49,3.15,-0.34,-9.7
+32,8-14 September,2020-04-05,Asthma,6.02,,6.28,5.93,-0.35,-5.6
+32,8-14 September,2020-04-05,COPD with acute exacerbation,1.59,,2.07,1.7,-0.37,-17.9
+32,8-14 September,2020-04-05,Cardiovascular diseases,21.53,,18.2,16.69,-1.51,-8.3
+32,8-14 September,2020-04-05,Cerebrovascular diseases,,1.5,3.24,3.27,0.03,0.9
+32,8-14 September,2020-04-05,Chest pain,28.07,,29.66,31.17,1.51,5.1
+32,8-14 September,2020-04-05,Dehydration,2.13,,1.14,1.4,0.26,22.8
+32,8-14 September,2020-04-05,Diseases of the respiratory system,79.7,,66.63,65.1,-1.53,-2.3
+32,8-14 September,2020-04-05,Mental and behavioural disorders,24.73,,27.13,27.11,-0.02,-0.1
+33,15-21 September,2020-04-12,Abnormalities of breathing,8.02,,8.75,9.53,0.78,8.9
+33,15-21 September,2020-04-12,Acute myocardial infarction,3.25,,3.21,3.88,0.67,20.9
+33,15-21 September,2020-04-12,Asthma,5.31,,5.73,5.8,0.07,1.2
+33,15-21 September,2020-04-12,COPD with acute exacerbation,1.84,,2.08,1.87,-0.21,-10.1
+33,15-21 September,2020-04-12,Cardiovascular diseases,20.43,,17.76,17.57,-0.19,-1.1
+33,15-21 September,2020-04-12,Cerebrovascular diseases,,1.87,3.57,3.48,-0.09,-2.5
+33,15-21 September,2020-04-12,Chest pain,27.36,,27.58,31.54,3.96,14.4
+33,15-21 September,2020-04-12,Dehydration,1.83,,1.19,1.51,0.32,26.9
+33,15-21 September,2020-04-12,Diseases of the respiratory system,74.56,,63.08,65.63,2.55,4.0
+33,15-21 September,2020-04-12,Mental and behavioural disorders,25.91,,28.42,28.17,-0.25,-0.9
+34,22-28 September,2020-04-19,Abnormalities of breathing,7.87,,8.65,10.12,1.47,17.0
+34,22-28 September,2020-04-19,Acute myocardial infarction,2.69,,3.65,3.14,-0.51,-14.0
+34,22-28 September,2020-04-19,Asthma,5.52,,6.29,5.18,-1.11,-17.6
+34,22-28 September,2020-04-19,COPD with acute exacerbation,1.79,,1.98,1.96,-0.02,-1.0
+34,22-28 September,2020-04-19,Cardiovascular diseases,19.14,,17.05,17.08,0.03,0.2
+34,22-28 September,2020-04-19,Cerebrovascular diseases,,1.64,3.67,3.37,-0.3,-8.2
+34,22-28 September,2020-04-19,Chest pain,26.49,,27.71,31.04,3.33,12.0
+34,22-28 September,2020-04-19,Dehydration,1.98,,1.45,1.13,-0.32,-22.1
+34,22-28 September,2020-04-19,Diseases of the respiratory system,70.64,,61.64,63.68,2.04,3.3
+34,22-28 September,2020-04-19,Mental and behavioural disorders,24.16,,27.83,29.19,1.36,4.9
+35,29 September-5 October,2020-04-26,Abnormalities of breathing,8.1,,8.52,9.96,1.44,16.9
+35,29 September-5 October,2020-04-26,Acute myocardial infarction,2.73,,3.25,3.6,0.35,10.8
+35,29 September-5 October,2020-04-26,Asthma,4.77,,6.14,5.18,-0.96,-15.6
+35,29 September-5 October,2020-04-26,COPD with acute exacerbation,1.37,,2.15,1.68,-0.47,-21.9
+35,29 September-5 October,2020-04-26,Cardiovascular diseases,19.39,,17.23,18.0,0.77,4.5
+35,29 September-5 October,2020-04-26,Cerebrovascular diseases,,1.67,3.55,3.04,-0.51,-14.4
+35,29 September-5 October,2020-04-26,Chest pain,26.45,,25.77,28.4,2.63,10.2
+35,29 September-5 October,2020-04-26,Dehydration,1.97,,1.02,1.48,0.46,45.1
+35,29 September-5 October,2020-04-26,Diseases of the respiratory system,65.76,,64.7,64.01,-0.69,-1.1
+35,29 September-5 October,2020-04-26,Mental and behavioural disorders,25.01,,28.11,26.96,-1.15,-4.1
+36,6-12 October,2020-05-03,Abnormalities of breathing,7.13,,8.48,8.86,0.38,4.5
+36,6-12 October,2020-05-03,Acute myocardial infarction,2.87,,2.86,3.64,0.78,27.3
+36,6-12 October,2020-05-03,Asthma,4.22,,4.45,5.13,0.68,15.3
+36,6-12 October,2020-05-03,COPD with acute exacerbation,1.03,,1.96,2.14,0.18,9.2
+36,6-12 October,2020-05-03,Cardiovascular diseases,19.22,,17.35,17.28,-0.07,-0.4
+36,6-12 October,2020-05-03,Cerebrovascular diseases,,1.74,4.06,3.84,-0.22,-5.4
+36,6-12 October,2020-05-03,Chest pain,28.22,,30.4,30.88,0.48,1.6
+36,6-12 October,2020-05-03,Dehydration,1.44,,1.2,1.46,0.26,21.7
+36,6-12 October,2020-05-03,Diseases of the respiratory system,52.03,,55.41,59.63,4.22,7.6
+36,6-12 October,2020-05-03,Mental and behavioural disorders,24.64,,26.99,26.0,-0.99,-3.7
+37,13-19 October,2020-05-10,Abnormalities of breathing,7.21,,8.11,8.33,0.22,2.7
+37,13-19 October,2020-05-10,Acute myocardial infarction,2.52,,3.37,3.94,0.57,16.9
+37,13-19 October,2020-05-10,Asthma,5.54,,4.92,4.22,-0.7,-14.2
+37,13-19 October,2020-05-10,COPD with acute exacerbation,1.26,,2.3,1.51,-0.79,-34.3
+37,13-19 October,2020-05-10,Cardiovascular diseases,18.34,,18.14,17.95,-0.19,-1.0
+37,13-19 October,2020-05-10,Cerebrovascular diseases,,1.92,3.36,3.92,0.56,16.7
+37,13-19 October,2020-05-10,Chest pain,27.72,,29.17,31.5,2.33,8.0
+37,13-19 October,2020-05-10,Dehydration,1.54,,0.91,1.35,0.44,48.4
+37,13-19 October,2020-05-10,Diseases of the respiratory system,47.76,,51.8,49.92,-1.88,-3.6
+37,13-19 October,2020-05-10,Mental and behavioural disorders,24.95,,29.58,27.27,-2.31,-7.8
+38,20-26 October,2020-05-17,Abnormalities of breathing,8.13,,8.31,8.88,0.57,6.9
+38,20-26 October,2020-05-17,Acute myocardial infarction,2.54,,3.48,3.69,0.21,6.0
+38,20-26 October,2020-05-17,Asthma,7.72,,5.68,5.16,-0.52,-9.2
+38,20-26 October,2020-05-17,COPD with acute exacerbation,0.89,,2.05,1.9,-0.15,-7.3
+38,20-26 October,2020-05-17,Cardiovascular diseases,17.96,,17.63,16.91,-0.72,-4.1
+38,20-26 October,2020-05-17,Cerebrovascular diseases,,1.63,3.45,3.59,0.14,4.1
+38,20-26 October,2020-05-17,Chest pain,26.03,,28.27,28.34,0.07,0.2
+38,20-26 October,2020-05-17,Dehydration,1.39,,1.2,1.88,0.68,56.7
+38,20-26 October,2020-05-17,Diseases of the respiratory system,49.16,,49.47,51.37,1.9,3.8
+38,20-26 October,2020-05-17,Mental and behavioural disorders,25.4,,29.38,27.64,-1.74,-5.9
+39,27 October-2 November,2020-05-24,Abnormalities of breathing,9.88,,7.97,9.65,1.68,21.1
+39,27 October-2 November,2020-05-24,Acute myocardial infarction,2.63,,3.15,3.25,0.1,3.2
+39,27 October-2 November,2020-05-24,Asthma,8.35,,6.18,6.13,-0.05,-0.8
+39,27 October-2 November,2020-05-24,COPD with acute exacerbation,1.14,,1.8,1.98,0.18,10.0
+39,27 October-2 November,2020-05-24,Cardiovascular diseases,18.32,,17.16,16.27,-0.89,-5.2
+39,27 October-2 November,2020-05-24,Cerebrovascular diseases,,1.71,3.11,3.98,0.87,28.0
+39,27 October-2 November,2020-05-24,Chest pain,27.1,,27.66,29.44,1.78,6.4
+39,27 October-2 November,2020-05-24,Dehydration,1.5,,1.37,0.98,-0.39,-28.5
+39,27 October-2 November,2020-05-24,Diseases of the respiratory system,52.47,,50.78,53.09,2.31,4.5
+39,27 October-2 November,2020-05-24,Mental and behavioural disorders,26.38,,30.33,28.02,-2.31,-7.6
+40,3-9 November,2020-05-31,Abnormalities of breathing,7.7,,8.72,8.53,-0.19,-2.2
+40,3-9 November,2020-05-31,Acute myocardial infarction,2.62,,3.22,3.02,-0.2,-6.2
+40,3-9 November,2020-05-31,Asthma,8.36,,6.72,6.45,-0.27,-4.0
+40,3-9 November,2020-05-31,COPD with acute exacerbation,0.93,,1.76,1.96,0.2,11.4
+40,3-9 November,2020-05-31,Cardiovascular diseases,18.21,,15.78,15.87,0.09,0.6
+40,3-9 November,2020-05-31,Cerebrovascular diseases,,1.73,3.48,3.45,-0.03,-0.9
+40,3-9 November,2020-05-31,Chest pain,26.73,,29.67,28.14,-1.53,-5.2
+40,3-9 November,2020-05-31,Dehydration,1.16,,1.76,1.28,-0.48,-27.3
+40,3-9 November,2020-05-31,Diseases of the respiratory system,50.68,,52.25,50.85,-1.4,-2.7
+40,3-9 November,2020-05-31,Mental and behavioural disorders,24.81,,31.42,28.66,-2.76,-8.8
+41,10-16 November,2020-06-07,Abnormalities of breathing,8.47,,7.98,8.0,0.02,0.3
+41,10-16 November,2020-06-07,Acute myocardial infarction,2.63,,3.03,3.15,0.12,4.0
+41,10-16 November,2020-06-07,Asthma,6.57,,5.89,6.82,0.93,15.8
+41,10-16 November,2020-06-07,COPD with acute exacerbation,1.25,,1.51,1.88,0.37,24.5
+41,10-16 November,2020-06-07,Cardiovascular diseases,19.36,,16.8,15.24,-1.56,-9.3
+41,10-16 November,2020-06-07,Cerebrovascular diseases,,1.6,3.45,3.56,0.11,3.2
+41,10-16 November,2020-06-07,Chest pain,28.5,,29.74,27.84,-1.9,-6.4
+41,10-16 November,2020-06-07,Dehydration,1.69,,1.36,1.3,-0.06,-4.4
+41,10-16 November,2020-06-07,Diseases of the respiratory system,50.53,,47.21,51.11,3.9,8.3
+41,10-16 November,2020-06-07,Mental and behavioural disorders,25.56,,29.19,26.32,-2.87,-9.8
+42,17-23 November,2020-06-14,Abnormalities of breathing,7.11,,8.83,9.45,0.62,7.0
+42,17-23 November,2020-06-14,Acute myocardial infarction,2.86,,3.41,3.06,-0.35,-10.3
+42,17-23 November,2020-06-14,Asthma,6.15,,5.75,6.96,1.21,21.0
+42,17-23 November,2020-06-14,COPD with acute exacerbation,0.86,,1.6,2.27,0.67,41.9
+42,17-23 November,2020-06-14,Cardiovascular diseases,18.64,,16.73,15.16,-1.57,-9.4
+42,17-23 November,2020-06-14,Cerebrovascular diseases,,1.48,3.54,3.25,-0.29,-8.2
+42,17-23 November,2020-06-14,Chest pain,29.13,,29.57,29.52,-0.05,-0.2
+42,17-23 November,2020-06-14,Dehydration,0.92,,1.54,1.99,0.45,29.2
+42,17-23 November,2020-06-14,Diseases of the respiratory system,46.56,,47.32,50.33,3.01,6.4
+42,17-23 November,2020-06-14,Mental and behavioural disorders,27.06,,27.71,26.41,-1.3,-4.7
+43,24-30 November,2020-06-21,Abnormalities of breathing,7.53,,8.28,8.86,0.58,7.0
+43,24-30 November,2020-06-21,Acute myocardial infarction,3.29,,3.36,3.15,-0.21,-6.2
+43,24-30 November,2020-06-21,Asthma,5.7,,5.31,6.08,0.77,14.5
+43,24-30 November,2020-06-21,COPD with acute exacerbation,1.0,,1.68,1.97,0.29,17.3
+43,24-30 November,2020-06-21,Cardiovascular diseases,19.65,,17.14,15.26,-1.88,-11.0
+43,24-30 November,2020-06-21,Cerebrovascular diseases,,1.47,3.17,3.32,0.15,4.7
+43,24-30 November,2020-06-21,Chest pain,25.38,,28.74,29.15,0.41,1.4
+43,24-30 November,2020-06-21,Dehydration,2.0,,0.86,1.38,0.52,60.5
+43,24-30 November,2020-06-21,Diseases of the respiratory system,45.48,,46.28,48.62,2.34,5.1
+43,24-30 November,2020-06-21,Mental and behavioural disorders,28.15,,28.23,28.91,0.68,2.4
+44,1-7 December,2020-06-28,Abnormalities of breathing,6.86,,8.22,8.49,0.27,3.3
+44,1-7 December,2020-06-28,Acute myocardial infarction,2.5,,3.87,3.22,-0.65,-16.8
+44,1-7 December,2020-06-28,Asthma,5.64,,5.66,6.85,1.19,21.0
+44,1-7 December,2020-06-28,COPD with acute exacerbation,0.73,,1.94,2.51,0.57,29.4
+44,1-7 December,2020-06-28,Cardiovascular diseases,18.43,,17.81,15.48,-2.33,-13.1
+44,1-7 December,2020-06-28,Cerebrovascular diseases,,1.98,4.17,3.56,-0.61,-14.6
+44,1-7 December,2020-06-28,Chest pain,25.65,,31.1,29.59,-1.51,-4.9
+44,1-7 December,2020-06-28,Dehydration,1.38,,1.8,1.69,-0.11,-6.1
+44,1-7 December,2020-06-28,Diseases of the respiratory system,42.8,,47.04,51.95,4.91,10.4
+44,1-7 December,2020-06-28,Mental and behavioural disorders,26.6,,30.22,27.41,-2.81,-9.3
+45,8-14 December,2020-07-05,Abnormalities of breathing,9.18,,7.73,9.78,2.05,26.5
+45,8-14 December,2020-07-05,Acute myocardial infarction,3.06,,3.69,3.64,-0.05,-1.4
+45,8-14 December,2020-07-05,Asthma,5.09,,5.86,6.86,1.0,17.1
+45,8-14 December,2020-07-05,COPD with acute exacerbation,0.86,,1.74,1.84,0.1,5.7
+45,8-14 December,2020-07-05,Cardiovascular diseases,18.28,,16.61,15.78,-0.83,-5.0
+45,8-14 December,2020-07-05,Cerebrovascular diseases,,2.07,3.17,3.55,0.38,12.0
+45,8-14 December,2020-07-05,Chest pain,24.87,,30.12,31.56,1.44,4.8
+45,8-14 December,2020-07-05,Dehydration,2.03,,1.23,2.22,0.99,80.5
+45,8-14 December,2020-07-05,Diseases of the respiratory system,43.76,,45.71,50.99,5.28,11.6
+45,8-14 December,2020-07-05,Mental and behavioural disorders,28.52,,28.59,27.39,-1.2,-4.2
+46,15-21 December,2020-07-12,Abnormalities of breathing,7.46,,7.78,8.62,0.84,10.8
+46,15-21 December,2020-07-12,Acute myocardial infarction,2.8,,3.19,2.92,-0.27,-8.5
+46,15-21 December,2020-07-12,Asthma,5.7,,4.49,6.77,2.28,50.8
+46,15-21 December,2020-07-12,COPD with acute exacerbation,1.05,,1.63,1.71,0.08,4.9
+46,15-21 December,2020-07-12,Cardiovascular diseases,17.78,,16.15,15.66,-0.49,-3.0
+46,15-21 December,2020-07-12,Cerebrovascular diseases,,1.83,3.17,3.24,0.07,2.2
+46,15-21 December,2020-07-12,Chest pain,27.08,,30.25,28.41,-1.84,-6.1
+46,15-21 December,2020-07-12,Dehydration,2.77,,1.73,2.81,1.08,62.4
+46,15-21 December,2020-07-12,Diseases of the respiratory system,44.96,,42.96,51.92,8.96,20.9
+46,15-21 December,2020-07-12,Mental and behavioural disorders,26.05,,31.22,27.87,-3.35,-10.7
+47,22-28 December,2020-07-19,Abnormalities of breathing,8.64,,9.43,8.64,-0.79,-8.4
+47,22-28 December,2020-07-19,Acute myocardial infarction,2.56,,3.21,3.13,-0.08,-2.5
+47,22-28 December,2020-07-19,Asthma,5.5,,5.77,5.64,-0.13,-2.3
+47,22-28 December,2020-07-19,COPD with acute exacerbation,1.09,,1.8,2.27,0.47,26.1
+47,22-28 December,2020-07-19,Cardiovascular diseases,17.61,,15.43,14.65,-0.78,-5.1
+47,22-28 December,2020-07-19,Cerebrovascular diseases,,1.57,3.3,3.46,0.16,4.8
+47,22-28 December,2020-07-19,Chest pain,25.45,,26.14,26.98,0.84,3.2
+47,22-28 December,2020-07-19,Dehydration,1.93,,1.99,1.96,-0.03,-1.5
+47,22-28 December,2020-07-19,Diseases of the respiratory system,55.33,,57.34,61.89,4.55,7.9
+47,22-28 December,2020-07-19,Mental and behavioural disorders,27.42,,27.77,28.71,0.94,3.4
+48,29 December-4 January,2020-07-26,Abnormalities of breathing,7.68,,8.14,8.19,0.05,0.6
+48,29 December-4 January,2020-07-26,Acute myocardial infarction,3.19,,3.48,3.83,0.35,10.1
+48,29 December-4 January,2020-07-26,Asthma,4.69,,3.52,5.44,1.92,54.5
+48,29 December-4 January,2020-07-26,COPD with acute exacerbation,0.96,,1.86,2.48,0.62,33.3
+48,29 December-4 January,2020-07-26,Cardiovascular diseases,19.42,,16.98,16.71,-0.27,-1.6
+48,29 December-4 January,2020-07-26,Cerebrovascular diseases,,1.75,3.2,3.38,0.18,5.6
+48,29 December-4 January,2020-07-26,Chest pain,28.46,,30.71,28.97,-1.74,-5.7
+48,29 December-4 January,2020-07-26,Dehydration,1.87,,3.09,2.62,-0.47,-15.2
+48,29 December-4 January,2020-07-26,Diseases of the respiratory system,48.65,,51.7,55.85,4.15,8.0
+48,29 December-4 January,2020-07-26,Mental and behavioural disorders,30.07,,33.06,30.77,-2.29,-6.9
+49,5-11 January,2020-08-02,Abnormalities of breathing,6.59,,7.37,8.7,1.33,18.0
+49,5-11 January,2020-08-02,Acute myocardial infarction,2.83,,2.94,3.1,0.16,5.4
+49,5-11 January,2020-08-02,Asthma,4.03,,3.96,4.35,0.39,9.8
+49,5-11 January,2020-08-02,COPD with acute exacerbation,0.83,,1.49,2.17,0.68,45.6
+49,5-11 January,2020-08-02,Cardiovascular diseases,18.97,,16.38,15.8,-0.58,-3.5
+49,5-11 January,2020-08-02,Cerebrovascular diseases,,1.7,4.04,3.87,-0.17,-4.2
+49,5-11 January,2020-08-02,Chest pain,26.97,,29.47,30.6,1.13,3.8
+49,5-11 January,2020-08-02,Dehydration,2.62,,1.46,1.85,0.39,26.7
+49,5-11 January,2020-08-02,Diseases of the respiratory system,40.67,,41.42,42.92,1.5,3.6
+49,5-11 January,2020-08-02,Mental and behavioural disorders,27.5,,28.15,27.36,-0.79,-2.8
+50,12-18 January,2020-08-09,Abnormalities of breathing,6.14,,8.1,8.04,-0.06,-0.7
+50,12-18 January,2020-08-09,Acute myocardial infarction,3.08,,2.73,2.65,-0.08,-2.9
+50,12-18 January,2020-08-09,Asthma,3.18,,4.28,4.12,-0.16,-3.7
+50,12-18 January,2020-08-09,COPD with acute exacerbation,1.08,,1.13,2.04,0.91,80.5
+50,12-18 January,2020-08-09,Cardiovascular diseases,18.94,,15.88,17.36,1.48,9.3
+50,12-18 January,2020-08-09,Cerebrovascular diseases,,1.92,3.34,3.14,-0.2,-6.0
+50,12-18 January,2020-08-09,Chest pain,28.09,,29.76,28.83,-0.93,-3.1
+50,12-18 January,2020-08-09,Dehydration,1.67,,3.38,1.62,-1.76,-52.1
+50,12-18 January,2020-08-09,Diseases of the respiratory system,36.71,,38.22,37.43,-0.79,-2.1
+50,12-18 January,2020-08-09,Mental and behavioural disorders,26.06,,29.15,25.64,-3.51,-12.0
+51,19-25 January,2020-08-16,Abnormalities of breathing,7.16,,7.68,8.47,0.79,10.3
+51,19-25 January,2020-08-16,Acute myocardial infarction,2.8,,3.22,4.09,0.87,27.0
+51,19-25 January,2020-08-16,Asthma,3.81,,4.28,4.0,-0.28,-6.5
+51,19-25 January,2020-08-16,COPD with acute exacerbation,0.92,,1.63,2.26,0.63,38.7
+51,19-25 January,2020-08-16,Cardiovascular diseases,17.61,,15.39,17.02,1.63,10.6
+51,19-25 January,2020-08-16,Cerebrovascular diseases,,1.75,3.41,3.66,0.25,7.3
+51,19-25 January,2020-08-16,Chest pain,26.16,,29.28,32.16,2.88,9.8
+51,19-25 January,2020-08-16,Dehydration,2.64,,2.77,1.96,-0.81,-29.2
+51,19-25 January,2020-08-16,Diseases of the respiratory system,38.57,,40.74,41.36,0.62,1.5
+51,19-25 January,2020-08-16,Mental and behavioural disorders,27.54,,28.27,27.57,-0.7,-2.5
+52,26 January-1 February,2020-08-23,Abnormalities of breathing,8.33,,8.96,9.65,0.69,7.7
+52,26 January-1 February,2020-08-23,Acute myocardial infarction,2.9,,3.21,3.21,0.0,0.0
+52,26 January-1 February,2020-08-23,Asthma,4.09,,5.14,4.43,-0.71,-13.8
+52,26 January-1 February,2020-08-23,COPD with acute exacerbation,0.8,,1.24,1.68,0.44,35.5
+52,26 January-1 February,2020-08-23,Cardiovascular diseases,17.38,,15.03,15.43,0.4,2.7
+52,26 January-1 February,2020-08-23,Cerebrovascular diseases,,1.68,2.74,3.4,0.66,24.1
+52,26 January-1 February,2020-08-23,Chest pain,28.75,,27.91,30.87,2.96,10.6
+52,26 January-1 February,2020-08-23,Dehydration,2.15,,3.04,2.47,-0.57,-18.7
+52,26 January-1 February,2020-08-23,Diseases of the respiratory system,40.34,,44.92,54.04,9.12,20.3
+52,26 January-1 February,2020-08-23,Mental and behavioural disorders,28.88,,31.03,27.99,-3.04,-9.8
+53,2-8 February,2020-08-30,Abnormalities of breathing,9.04,,10.75,7.69,-3.06,-28.5
+53,2-8 February,2020-08-30,Acute myocardial infarction,2.66,,2.47,3.18,0.71,28.7
+53,2-8 February,2020-08-30,Asthma,6.44,,5.8,5.45,-0.35,-6.0
+53,2-8 February,2020-08-30,COPD with acute exacerbation,0.76,,1.36,1.93,0.57,41.9
+53,2-8 February,2020-08-30,Cardiovascular diseases,17.36,,14.92,15.86,0.94,6.3
+53,2-8 February,2020-08-30,Cerebrovascular diseases,,1.16,3.87,3.33,-0.54,-14.0
+53,2-8 February,2020-08-30,Chest pain,26.67,,30.43,28.86,-1.57,-5.2
+53,2-8 February,2020-08-30,Dehydration,1.37,,2.02,1.68,-0.34,-16.8
+53,2-8 February,2020-08-30,Diseases of the respiratory system,41.33,,46.14,50.03,3.89,8.4
+53,2-8 February,2020-08-30,Mental and behavioural disorders,25.76,,27.81,23.95,-3.86,-13.9
+54,9-15 February,2020-09-06,Abnormalities of breathing,10.1,,11.57,11.4,-0.17,-1.5
+54,9-15 February,2020-09-06,Acute myocardial infarction,2.67,,2.67,3.28,0.61,22.8
+54,9-15 February,2020-09-06,Asthma,9.69,,8.85,5.4,-3.45,-39.0
+54,9-15 February,2020-09-06,COPD with acute exacerbation,1.01,,1.65,1.92,0.27,16.4
+54,9-15 February,2020-09-06,Cardiovascular diseases,17.85,,15.95,16.35,0.4,2.5
+54,9-15 February,2020-09-06,Cerebrovascular diseases,,1.86,3.58,3.11,-0.47,-13.1
+54,9-15 February,2020-09-06,Chest pain,27.83,,28.85,31.24,2.39,8.3
+54,9-15 February,2020-09-06,Dehydration,1.66,,1.76,1.25,-0.51,-29.0
+54,9-15 February,2020-09-06,Diseases of the respiratory system,50.74,,53.03,49.84,-3.19,-6.0
+54,9-15 February,2020-09-06,Mental and behavioural disorders,27.34,,28.13,26.91,-1.22,-4.3
+55,16-22 February,2020-09-13,Abnormalities of breathing,9.64,,11.55,10.79,-0.76,-6.6
+55,16-22 February,2020-09-13,Acute myocardial infarction,2.57,,3.46,3.27,-0.19,-5.5
+55,16-22 February,2020-09-13,Asthma,8.36,,9.74,8.11,-1.63,-16.7
+55,16-22 February,2020-09-13,COPD with acute exacerbation,0.83,,1.64,1.75,0.11,6.7
+55,16-22 February,2020-09-13,Cardiovascular diseases,16.72,,15.98,15.74,-0.24,-1.5
+55,16-22 February,2020-09-13,Cerebrovascular diseases,,1.52,3.28,3.54,0.26,7.9
+55,16-22 February,2020-09-13,Chest pain,26.27,,30.85,29.61,-1.24,-4.0
+55,16-22 February,2020-09-13,Dehydration,1.03,,1.2,1.32,0.12,10.0
+55,16-22 February,2020-09-13,Diseases of the respiratory system,47.32,,56.39,59.04,2.65,4.7
+55,16-22 February,2020-09-13,Mental and behavioural disorders,27.95,,29.71,26.49,-3.22,-10.8
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Abnormalities of breathing,8.45,,11.12,10.46,-0.66,-5.9
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Acute myocardial infarction,2.81,,3.5,2.97,-0.53,-15.1
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Asthma,7.68,,9.22,6.59,-2.63,-28.5
+56,23 Feb-1 Mar/29 Feb,2020-09-20,COPD with acute exacerbation,0.8,,1.12,1.56,0.44,39.3
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Cardiovascular diseases,18.5,,15.5,14.95,-0.55,-3.5
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Cerebrovascular diseases,,1.82,3.61,3.34,-0.27,-7.5
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Chest pain,27.71,,29.66,28.94,-0.72,-2.4
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Dehydration,1.59,,1.42,1.2,-0.22,-15.5
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Diseases of the respiratory system,46.98,,56.35,59.07,2.72,4.8
+56,23 Feb-1 Mar/29 Feb,2020-09-20,Mental and behavioural disorders,27.08,,29.54,26.54,-3.0,-10.2
+61,1-7 September,2020-10-25,Abnormalities of breathing,7.58,,7.59,8.43,0.84,11.1
+61,1-7 September,2020-10-25,Acute myocardial infarction,1.47,,1.5,1.78,0.28,18.7
+61,1-7 September,2020-10-25,Asthma,6.9,,7.33,7.59,0.26,3.5
+61,1-7 September,2020-10-25,COPD with acute exacerbation,1.7,,1.49,2.04,0.55,36.9
+61,1-7 September,2020-10-25,Cardiovascular diseases,16.02,,12.99,12.81,-0.18,-1.4
+61,1-7 September,2020-10-25,Cerebrovascular diseases,,1.32,2.51,2.26,-0.25,-10.0
+61,1-7 September,2020-10-25,Chest pain,25.69,,26.67,26.09,-0.58,-2.2
+61,1-7 September,2020-10-25,Dehydration,1.81,,1.42,1.65,0.23,16.2
+61,1-7 September,2020-10-25,Diseases of the respiratory system,81.66,,60.7,67.74,7.04,11.6
+61,1-7 September,2020-10-25,Mental and behavioural disorders,20.62,,21.39,21.71,0.32,1.5
+62,8-14 September,2020-11-01,Abnormalities of breathing,7.45,,7.82,8.1,0.28,3.6
+62,8-14 September,2020-11-01,Acute myocardial infarction,1.5,,1.69,1.43,-0.26,-15.4
+62,8-14 September,2020-11-01,Asthma,8.38,,6.94,6.86,-0.08,-1.2
+62,8-14 September,2020-11-01,COPD with acute exacerbation,1.6,,1.73,1.93,0.2,11.6
+62,8-14 September,2020-11-01,Cardiovascular diseases,16.38,,13.2,13.48,0.28,2.1
+62,8-14 September,2020-11-01,Cerebrovascular diseases,,0.97,2.41,2.28,-0.13,-5.4
+62,8-14 September,2020-11-01,Chest pain,24.92,,27.41,26.13,-1.28,-4.7
+62,8-14 September,2020-11-01,Dehydration,2.19,,1.2,1.47,0.27,22.5
+62,8-14 September,2020-11-01,Diseases of the respiratory system,79.58,,60.76,62.93,2.17,3.6
+62,8-14 September,2020-11-01,Mental and behavioural disorders,18.72,,23.39,21.16,-2.23,-9.5
+63,15-21 September,2020-11-08,Abnormalities of breathing,7.08,,7.59,7.69,0.1,1.3
+63,15-21 September,2020-11-08,Acute myocardial infarction,1.46,,1.53,1.86,0.33,21.6
+63,15-21 September,2020-11-08,Asthma,6.86,,5.79,6.85,1.06,18.3
+63,15-21 September,2020-11-08,COPD with acute exacerbation,1.51,,1.9,1.79,-0.11,-5.8
+63,15-21 September,2020-11-08,Cardiovascular diseases,15.63,,13.42,13.18,-0.24,-1.8
+63,15-21 September,2020-11-08,Cerebrovascular diseases,,1.23,2.7,2.72,0.02,0.7
+63,15-21 September,2020-11-08,Chest pain,24.29,,25.71,28.78,3.07,11.9
+63,15-21 September,2020-11-08,Dehydration,2.04,,1.41,1.57,0.16,11.3
+63,15-21 September,2020-11-08,Diseases of the respiratory system,74.94,,56.41,61.11,4.7,8.3
+63,15-21 September,2020-11-08,Mental and behavioural disorders,19.22,,22.95,21.9,-1.05,-4.6
+64,22-28 September,2020-11-15,Abnormalities of breathing,7.9,,7.91,7.79,-0.12,-1.5
+64,22-28 September,2020-11-15,Acute myocardial infarction,1.22,,1.41,1.37,-0.04,-2.8
+64,22-28 September,2020-11-15,Asthma,6.42,,5.52,7.13,1.61,29.2
+64,22-28 September,2020-11-15,COPD with acute exacerbation,1.4,,1.97,1.67,-0.3,-15.2
+64,22-28 September,2020-11-15,Cardiovascular diseases,14.75,,13.31,13.18,-0.13,-1.0
+64,22-28 September,2020-11-15,Cerebrovascular diseases,,0.99,2.69,2.9,0.21,7.8
+64,22-28 September,2020-11-15,Chest pain,23.08,,25.15,28.0,2.85,11.3
+64,22-28 September,2020-11-15,Dehydration,2.33,,1.39,1.6,0.21,15.1
+64,22-28 September,2020-11-15,Diseases of the respiratory system,70.87,,55.61,58.77,3.16,5.7
+64,22-28 September,2020-11-15,Mental and behavioural disorders,20.71,,21.57,22.57,1.0,4.6
+65,29 September-5 October,2020-11-22,Abnormalities of breathing,6.61,,7.03,7.86,0.83,11.8
+65,29 September-5 October,2020-11-22,Acute myocardial infarction,1.23,,1.82,1.61,-0.21,-11.5
+65,29 September-5 October,2020-11-22,Asthma,6.17,,7.56,6.55,-1.01,-13.4
+65,29 September-5 October,2020-11-22,COPD with acute exacerbation,1.33,,1.53,1.71,0.18,11.8
+65,29 September-5 October,2020-11-22,Cardiovascular diseases,12.95,,12.75,13.33,0.58,4.5
+65,29 September-5 October,2020-11-22,Cerebrovascular diseases,,1.51,2.21,2.73,0.52,23.5
+65,29 September-5 October,2020-11-22,Chest pain,25.2,,25.18,24.7,-0.48,-1.9
+65,29 September-5 October,2020-11-22,Dehydration,1.89,,1.47,1.37,-0.1,-6.8
+65,29 September-5 October,2020-11-22,Diseases of the respiratory system,63.39,,59.83,58.26,-1.57,-2.6
+65,29 September-5 October,2020-11-22,Mental and behavioural disorders,19.4,,20.04,19.14,-0.9,-4.5
+66,6-12 October,2020-11-29,Abnormalities of breathing,7.24,,7.02,8.81,1.79,25.5
+66,6-12 October,2020-11-29,Acute myocardial infarction,1.19,,1.65,1.33,-0.32,-19.4
+66,6-12 October,2020-11-29,Asthma,4.61,,5.08,5.32,0.24,4.7
+66,6-12 October,2020-11-29,COPD with acute exacerbation,1.26,,2.12,1.93,-0.19,-9.0
+66,6-12 October,2020-11-29,Cardiovascular diseases,14.6,,13.38,10.99,-2.39,-17.9
+66,6-12 October,2020-11-29,Cerebrovascular diseases,,0.92,2.79,2.15,-0.64,-22.9
+66,6-12 October,2020-11-29,Chest pain,27.19,,27.98,26.32,-1.66,-5.9
+66,6-12 October,2020-11-29,Dehydration,1.49,,1.11,2.0,0.89,80.2
+66,6-12 October,2020-11-29,Diseases of the respiratory system,49.66,,47.14,56.44,9.3,19.7
+66,6-12 October,2020-11-29,Mental and behavioural disorders,21.31,,21.08,21.65,0.57,2.7
+67,13-19 October,2020-12-06,Abnormalities of breathing,7.02,,8.84,8.31,-0.53,-6.0
+67,13-19 October,2020-12-06,Acute myocardial infarction,1.03,,1.67,1.75,0.08,4.8
+67,13-19 October,2020-12-06,Asthma,4.73,,5.41,4.92,-0.49,-9.1
+67,13-19 October,2020-12-06,COPD with acute exacerbation,0.72,,1.43,1.98,0.55,38.5
+67,13-19 October,2020-12-06,Cardiovascular diseases,14.02,,12.96,13.78,0.82,6.3
+67,13-19 October,2020-12-06,Cerebrovascular diseases,,0.96,2.69,2.95,0.26,9.7
+67,13-19 October,2020-12-06,Chest pain,25.68,,27.58,28.74,1.16,4.2
+67,13-19 October,2020-12-06,Dehydration,1.23,,1.08,1.33,0.25,23.1
+67,13-19 October,2020-12-06,Diseases of the respiratory system,42.18,,47.79,49.49,1.7,3.6
+67,13-19 October,2020-12-06,Mental and behavioural disorders,23.53,,22.74,22.55,-0.19,-0.8
+68,20-26 October,2020-12-13,Abnormalities of breathing,8.15,,7.25,7.93,0.68,9.4
+68,20-26 October,2020-12-13,Acute myocardial infarction,1.44,,1.33,1.37,0.04,3.0
+68,20-26 October,2020-12-13,Asthma,7.37,,6.94,5.46,-1.48,-21.3
+68,20-26 October,2020-12-13,COPD with acute exacerbation,0.82,,1.75,1.69,-0.06,-3.4
+68,20-26 October,2020-12-13,Cardiovascular diseases,14.22,,12.81,11.99,-0.82,-6.4
+68,20-26 October,2020-12-13,Cerebrovascular diseases,,1.21,2.9,2.13,-0.77,-26.6
+68,20-26 October,2020-12-13,Chest pain,25.69,,25.54,25.36,-0.18,-0.7
+68,20-26 October,2020-12-13,Dehydration,1.32,,1.1,1.31,0.21,19.1
+68,20-26 October,2020-12-13,Diseases of the respiratory system,47.47,,47.12,47.32,0.2,0.4
+68,20-26 October,2020-12-13,Mental and behavioural disorders,22.62,,24.49,22.09,-2.4,-9.8
+69,27 October-2 November,2020-12-20,Abnormalities of breathing,7.5,,7.87,6.86,-1.01,-12.8
+69,27 October-2 November,2020-12-20,Acute myocardial infarction,1.1,,1.35,1.53,0.18,13.3
+69,27 October-2 November,2020-12-20,Asthma,6.87,,6.3,7.05,0.75,11.9
+69,27 October-2 November,2020-12-20,COPD with acute exacerbation,0.97,,1.67,1.72,0.05,3.0
+69,27 October-2 November,2020-12-20,Cardiovascular diseases,14.36,,12.1,12.06,-0.04,-0.3
+69,27 October-2 November,2020-12-20,Cerebrovascular diseases,,1.12,2.51,2.07,-0.44,-17.5
+69,27 October-2 November,2020-12-20,Chest pain,24.21,,24.55,25.43,0.88,3.6
+69,27 October-2 November,2020-12-20,Dehydration,1.37,,1.77,1.33,-0.44,-24.9
+69,27 October-2 November,2020-12-20,Diseases of the respiratory system,46.8,,46.59,48.27,1.68,3.6
+69,27 October-2 November,2020-12-20,Mental and behavioural disorders,22.26,,24.35,23.14,-1.21,-5.0
+70,3-9 November,2020-12-27,Abnormalities of breathing,6.56,,7.32,7.73,0.41,5.6
+70,3-9 November,2020-12-27,Acute myocardial infarction,1.13,,1.65,1.29,-0.36,-21.8
+70,3-9 November,2020-12-27,Asthma,6.37,,7.39,7.7,0.31,4.2
+70,3-9 November,2020-12-27,COPD with acute exacerbation,0.83,,1.83,2.01,0.18,9.8
+70,3-9 November,2020-12-27,Cardiovascular diseases,14.15,,12.91,12.31,-0.6,-4.6
+70,3-9 November,2020-12-27,Cerebrovascular diseases,,1.23,2.06,2.49,0.43,20.9
+70,3-9 November,2020-12-27,Chest pain,25.5,,27.94,25.22,-2.72,-9.7
+70,3-9 November,2020-12-27,Dehydration,1.69,,2.2,1.39,-0.81,-36.8
+70,3-9 November,2020-12-27,Diseases of the respiratory system,44.16,,47.81,48.84,1.03,2.2
+70,3-9 November,2020-12-27,Mental and behavioural disorders,22.92,,24.45,22.94,-1.51,-6.2
+71,10-16 November,2021-01-03,Abnormalities of breathing,7.58,,7.72,8.91,1.19,15.4
+71,10-16 November,2021-01-03,Acute myocardial infarction,1.12,,1.54,1.59,0.05,3.2
+71,10-16 November,2021-01-03,Asthma,6.89,,6.32,8.89,2.57,40.7
+71,10-16 November,2021-01-03,COPD with acute exacerbation,0.98,,1.72,2.02,0.3,17.4
+71,10-16 November,2021-01-03,Cardiovascular diseases,13.98,,12.52,11.02,-1.5,-12.0
+71,10-16 November,2021-01-03,Cerebrovascular diseases,,1.54,2.64,2.45,-0.19,-7.2
+71,10-16 November,2021-01-03,Chest pain,24.03,,26.43,24.28,-2.15,-8.1
+71,10-16 November,2021-01-03,Dehydration,1.53,,1.59,1.55,-0.04,-2.5
+71,10-16 November,2021-01-03,Diseases of the respiratory system,46.5,,44.65,50.73,6.08,13.6
+71,10-16 November,2021-01-03,Mental and behavioural disorders,22.73,,23.31,21.66,-1.65,-7.1
+72,17-23 November,2021-01-10,Abnormalities of breathing,6.69,,7.04,7.98,0.94,13.4
+72,17-23 November,2021-01-10,Acute myocardial infarction,1.29,,1.47,1.38,-0.09,-6.1
+72,17-23 November,2021-01-10,Asthma,5.23,,7.34,10.22,2.88,39.2
+72,17-23 November,2021-01-10,COPD with acute exacerbation,0.93,,1.59,2.2,0.61,38.4
+72,17-23 November,2021-01-10,Cardiovascular diseases,13.59,,12.47,11.67,-0.8,-6.4
+72,17-23 November,2021-01-10,Cerebrovascular diseases,,1.27,2.46,2.26,-0.2,-8.1
+72,17-23 November,2021-01-10,Chest pain,25.59,,26.66,24.4,-2.26,-8.5
+72,17-23 November,2021-01-10,Dehydration,1.29,,1.36,1.84,0.48,35.3
+72,17-23 November,2021-01-10,Diseases of the respiratory system,43.72,,44.89,49.22,4.33,9.6
+72,17-23 November,2021-01-10,Mental and behavioural disorders,23.69,,23.65,23.28,-0.37,-1.6
+73,24-30 November,2021-01-17,Abnormalities of breathing,6.63,,7.06,8.98,1.92,27.2
+73,24-30 November,2021-01-17,Acute myocardial infarction,1.37,,1.59,1.6,0.01,0.6
+73,24-30 November,2021-01-17,Asthma,5.67,,7.18,6.54,-0.64,-8.9
+73,24-30 November,2021-01-17,COPD with acute exacerbation,1.21,,1.39,1.55,0.16,11.5
+73,24-30 November,2021-01-17,Cardiovascular diseases,14.36,,13.33,12.21,-1.12,-8.4
+73,24-30 November,2021-01-17,Cerebrovascular diseases,,1.39,2.66,2.29,-0.37,-13.9
+73,24-30 November,2021-01-17,Chest pain,24.98,,25.6,25.27,-0.33,-1.3
+73,24-30 November,2021-01-17,Dehydration,1.66,,1.14,1.69,0.55,48.2
+73,24-30 November,2021-01-17,Diseases of the respiratory system,43.14,,45.56,45.6,0.04,0.1
+73,24-30 November,2021-01-17,Mental and behavioural disorders,24.36,,21.57,24.61,3.04,14.1
+74,1-7 December,2021-01-24,Abnormalities of breathing,6.21,,7.67,9.08,1.41,18.4
+74,1-7 December,2021-01-24,Acute myocardial infarction,1.59,,1.36,1.65,0.29,21.3
+74,1-7 December,2021-01-24,Asthma,4.89,,6.31,9.49,3.18,50.4
+74,1-7 December,2021-01-24,COPD with acute exacerbation,0.88,,1.42,1.9,0.48,33.8
+74,1-7 December,2021-01-24,Cardiovascular diseases,14.19,,12.31,11.68,-0.63,-5.1
+74,1-7 December,2021-01-24,Cerebrovascular diseases,,1.27,2.06,2.32,0.26,12.6
+74,1-7 December,2021-01-24,Chest pain,23.61,,25.9,26.3,0.4,1.5
+74,1-7 December,2021-01-24,Dehydration,1.55,,1.73,1.68,-0.05,-2.9
+74,1-7 December,2021-01-24,Diseases of the respiratory system,37.76,,42.57,48.76,6.19,14.5
+74,1-7 December,2021-01-24,Mental and behavioural disorders,22.14,,23.84,23.05,-0.79,-3.3
+75,8-14 December,2021-01-31,Abnormalities of breathing,6.94,,7.72,9.19,1.47,19.0
+75,8-14 December,2021-01-31,Acute myocardial infarction,1.31,,1.61,1.56,-0.05,-3.1
+75,8-14 December,2021-01-31,Asthma,5.21,,5.28,10.05,4.77,90.3
+75,8-14 December,2021-01-31,COPD with acute exacerbation,0.83,,1.72,2.39,0.67,39.0
+75,8-14 December,2021-01-31,Cardiovascular diseases,13.29,,11.68,11.88,0.2,1.7
+75,8-14 December,2021-01-31,Cerebrovascular diseases,,1.58,2.75,2.29,-0.46,-16.7
+75,8-14 December,2021-01-31,Chest pain,22.01,,25.56,26.17,0.61,2.4
+75,8-14 December,2021-01-31,Dehydration,1.48,,1.51,1.71,0.2,13.2
+75,8-14 December,2021-01-31,Diseases of the respiratory system,39.87,,41.74,51.58,9.84,23.6
+75,8-14 December,2021-01-31,Mental and behavioural disorders,21.57,,24.19,22.66,-1.53,-6.3
+76,15-21 December,2021-02-07,Abnormalities of breathing,7.12,,6.96,8.97,2.01,28.9
+76,15-21 December,2021-02-07,Acute myocardial infarction,1.15,,1.86,2.02,0.16,8.6
+76,15-21 December,2021-02-07,Asthma,5.98,,5.17,7.71,2.54,49.1
+76,15-21 December,2021-02-07,COPD with acute exacerbation,0.88,,1.6,2.04,0.44,27.5
+76,15-21 December,2021-02-07,Cardiovascular diseases,12.89,,12.42,12.07,-0.35,-2.8
+76,15-21 December,2021-02-07,Cerebrovascular diseases,,1.32,2.42,2.22,-0.2,-8.3
+76,15-21 December,2021-02-07,Chest pain,22.68,,26.09,23.38,-2.71,-10.4
+76,15-21 December,2021-02-07,Dehydration,2.43,,1.54,2.49,0.95,61.7
+76,15-21 December,2021-02-07,Diseases of the respiratory system,43.32,,41.58,50.92,9.34,22.5
+76,15-21 December,2021-02-07,Mental and behavioural disorders,22.0,,23.11,22.39,-0.72,-3.1
+77,22-28 December,2021-02-14,Abnormalities of breathing,7.03,,7.23,7.05,-0.18,-2.5
+77,22-28 December,2021-02-14,Acute myocardial infarction,1.1,,1.34,1.6,0.26,19.4
+77,22-28 December,2021-02-14,Asthma,6.63,,6.42,6.81,0.39,6.1
+77,22-28 December,2021-02-14,COPD with acute exacerbation,1.2,,1.73,1.97,0.24,13.9
+77,22-28 December,2021-02-14,Cardiovascular diseases,12.89,,10.3,10.17,-0.13,-1.3
+77,22-28 December,2021-02-14,Cerebrovascular diseases,,1.13,2.23,2.55,0.32,14.3
+77,22-28 December,2021-02-14,Chest pain,20.21,,19.8,21.66,1.86,9.4
+77,22-28 December,2021-02-14,Dehydration,2.08,,1.86,2.06,0.2,10.8
+77,22-28 December,2021-02-14,Diseases of the respiratory system,54.69,,53.7,58.1,4.4,8.2
+77,22-28 December,2021-02-14,Mental and behavioural disorders,22.16,,20.98,20.56,-0.42,-2.0
+78,29 December-4 January,2021-02-21,Abnormalities of breathing,5.88,,6.77,9.17,2.4,35.5
+78,29 December-4 January,2021-02-21,Acute myocardial infarction,1.28,,1.56,1.64,0.08,5.1
+78,29 December-4 January,2021-02-21,Asthma,5.22,,5.19,8.25,3.06,59.0
+78,29 December-4 January,2021-02-21,COPD with acute exacerbation,1.05,,1.86,2.52,0.66,35.5
+78,29 December-4 January,2021-02-21,Cardiovascular diseases,12.43,,11.6,11.54,-0.06,-0.5
+78,29 December-4 January,2021-02-21,Cerebrovascular diseases,,1.13,2.58,2.25,-0.33,-12.8
+78,29 December-4 January,2021-02-21,Chest pain,23.15,,24.88,24.54,-0.34,-1.4
+78,29 December-4 January,2021-02-21,Dehydration,1.74,,2.64,2.67,0.03,1.1
+78,29 December-4 January,2021-02-21,Diseases of the respiratory system,50.3,,50.34,59.56,9.22,18.3
+78,29 December-4 January,2021-02-21,Mental and behavioural disorders,23.18,,27.41,24.78,-2.63,-9.6
+79,5-11 January,2021-02-28,Abnormalities of breathing,6.07,,7.41,7.9,0.49,6.6
+79,5-11 January,2021-02-28,Acute myocardial infarction,1.5,,1.37,1.47,0.1,7.3
+79,5-11 January,2021-02-28,Asthma,4.96,,4.89,7.23,2.34,47.9
+79,5-11 January,2021-02-28,COPD with acute exacerbation,0.94,,1.63,2.1,0.47,28.8
+79,5-11 January,2021-02-28,Cardiovascular diseases,12.21,,11.83,11.19,-0.64,-5.4
+79,5-11 January,2021-02-28,Cerebrovascular diseases,,1.24,2.25,2.44,0.19,8.4
+79,5-11 January,2021-02-28,Chest pain,23.75,,25.54,27.37,1.83,7.2
+79,5-11 January,2021-02-28,Dehydration,1.87,,1.75,2.19,0.44,25.1
+79,5-11 January,2021-02-28,Diseases of the respiratory system,38.1,,38.18,44.8,6.62,17.3
+79,5-11 January,2021-02-28,Mental and behavioural disorders,21.51,,22.75,21.43,-1.32,-5.8
+80,12-18 January,2021-03-07,Abnormalities of breathing,6.04,,6.7,6.73,0.03,0.4
+80,12-18 January,2021-03-07,Acute myocardial infarction,1.45,,1.29,1.75,0.46,35.7
+80,12-18 January,2021-03-07,Asthma,4.02,,3.88,4.51,0.63,16.2
+80,12-18 January,2021-03-07,COPD with acute exacerbation,0.77,,1.19,1.77,0.58,48.7
+80,12-18 January,2021-03-07,Cardiovascular diseases,13.66,,11.11,11.49,0.38,3.4
+80,12-18 January,2021-03-07,Cerebrovascular diseases,,1.01,2.71,2.6,-0.11,-4.1
+80,12-18 January,2021-03-07,Chest pain,25.45,,25.25,26.48,1.23,4.9
+80,12-18 January,2021-03-07,Dehydration,1.63,,2.24,1.34,-0.9,-40.2
+80,12-18 January,2021-03-07,Diseases of the respiratory system,32.86,,33.26,36.57,3.31,10.0
+80,12-18 January,2021-03-07,Mental and behavioural disorders,21.03,,22.47,21.26,-1.21,-5.4
+81,19-25 January,2021-03-14,Abnormalities of breathing,6.12,,7.18,7.78,0.6,8.4
+81,19-25 January,2021-03-14,Acute myocardial infarction,1.12,,1.73,1.67,-0.06,-3.5
+81,19-25 January,2021-03-14,Asthma,4.4,,4.2,4.62,0.42,10.0
+81,19-25 January,2021-03-14,COPD with acute exacerbation,0.8,,1.44,1.81,0.37,25.7
+81,19-25 January,2021-03-14,Cardiovascular diseases,13.3,,12.27,12.67,0.4,3.3
+81,19-25 January,2021-03-14,Cerebrovascular diseases,,0.81,2.79,2.92,0.13,4.7
+81,19-25 January,2021-03-14,Chest pain,24.2,,26.95,27.74,0.79,2.9
+81,19-25 January,2021-03-14,Dehydration,2.56,,2.54,1.17,-1.37,-53.9
+81,19-25 January,2021-03-14,Diseases of the respiratory system,33.16,,33.92,40.25,6.33,18.7
+81,19-25 January,2021-03-14,Mental and behavioural disorders,22.91,,21.86,21.91,0.05,0.2
+82,26 January-1 February,2021-03-21,Abnormalities of breathing,6.99,,7.77,8.31,0.54,6.9
+82,26 January-1 February,2021-03-21,Acute myocardial infarction,1.23,,1.43,1.59,0.16,11.2
+82,26 January-1 February,2021-03-21,Asthma,3.92,,4.57,4.81,0.24,5.3
+82,26 January-1 February,2021-03-21,COPD with acute exacerbation,0.48,,1.3,1.74,0.44,33.8
+82,26 January-1 February,2021-03-21,Cardiovascular diseases,12.38,,11.11,11.12,0.01,0.1
+82,26 January-1 February,2021-03-21,Cerebrovascular diseases,,1.29,2.4,2.81,0.41,17.1
+82,26 January-1 February,2021-03-21,Chest pain,23.32,,25.24,28.03,2.79,11.1
+82,26 January-1 February,2021-03-21,Dehydration,1.79,,1.88,1.82,-0.06,-3.2
+82,26 January-1 February,2021-03-21,Diseases of the respiratory system,34.77,,40.86,50.68,9.82,24.0
+82,26 January-1 February,2021-03-21,Mental and behavioural disorders,22.16,,23.85,23.42,-0.43,-1.8
+83,2-8 February,2021-03-28,Abnormalities of breathing,6.64,,8.7,7.85,-0.85,-9.8
+83,2-8 February,2021-03-28,Acute myocardial infarction,1.57,,1.43,1.55,0.12,8.4
+83,2-8 February,2021-03-28,Asthma,5.7,,5.49,4.84,-0.65,-11.8
+83,2-8 February,2021-03-28,COPD with acute exacerbation,0.71,,1.36,1.58,0.22,16.2
+83,2-8 February,2021-03-28,Cardiovascular diseases,12.52,,12.32,11.28,-1.04,-8.4
+83,2-8 February,2021-03-28,Cerebrovascular diseases,,1.36,2.46,2.35,-0.11,-4.5
+83,2-8 February,2021-03-28,Chest pain,24.48,,26.3,26.48,0.18,0.7
+83,2-8 February,2021-03-28,Dehydration,1.11,,1.64,1.77,0.13,7.9
+83,2-8 February,2021-03-28,Diseases of the respiratory system,36.09,,40.35,43.65,3.3,8.2
+83,2-8 February,2021-03-28,Mental and behavioural disorders,22.9,,23.67,21.46,-2.21,-9.3
+84,9-15 February,2021-04-04,Abnormalities of breathing,8.44,,9.43,8.5,-0.93,-9.9
+84,9-15 February,2021-04-04,Acute myocardial infarction,1.64,,1.61,1.84,0.23,14.3
+84,9-15 February,2021-04-04,Asthma,7.68,,8.14,5.81,-2.33,-28.6
+84,9-15 February,2021-04-04,COPD with acute exacerbation,0.85,,1.31,1.17,-0.14,-10.7
+84,9-15 February,2021-04-04,Cardiovascular diseases,14.16,,11.71,11.92,0.21,1.8
+84,9-15 February,2021-04-04,Cerebrovascular diseases,,1.06,2.42,2.58,0.16,6.6
+84,9-15 February,2021-04-04,Chest pain,25.16,,25.08,28.23,3.15,12.6
+84,9-15 February,2021-04-04,Dehydration,1.43,,1.48,1.23,-0.25,-16.9
+84,9-15 February,2021-04-04,Diseases of the respiratory system,40.05,,45.72,42.53,-3.19,-7.0
+84,9-15 February,2021-04-04,Mental and behavioural disorders,23.84,,24.02,21.45,-2.57,-10.7
+85,16-22 February,2021-04-11,Abnormalities of breathing,8.43,,8.89,9.29,0.4,4.5
+85,16-22 February,2021-04-11,Acute myocardial infarction,1.16,,1.55,1.5,-0.05,-3.2
+85,16-22 February,2021-04-11,Asthma,6.62,,8.11,6.32,-1.79,-22.1
+85,16-22 February,2021-04-11,COPD with acute exacerbation,0.75,,1.45,1.58,0.13,9.0
+85,16-22 February,2021-04-11,Cardiovascular diseases,13.19,,12.33,11.91,-0.42,-3.4
+85,16-22 February,2021-04-11,Cerebrovascular diseases,,1.23,2.6,2.44,-0.16,-6.2
+85,16-22 February,2021-04-11,Chest pain,27.16,,28.97,27.69,-1.28,-4.4
+85,16-22 February,2021-04-11,Dehydration,1.74,,1.63,1.73,0.1,6.1
+85,16-22 February,2021-04-11,Diseases of the respiratory system,40.09,,48.76,49.72,0.96,2.0
+85,16-22 February,2021-04-11,Mental and behavioural disorders,23.0,,22.64,22.08,-0.56,-2.5
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Abnormalities of breathing,8.04,,9.17,8.74,-0.43,-4.7
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Acute myocardial infarction,1.68,,1.31,1.4,0.09,6.9
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Asthma,6.2,,7.68,6.02,-1.66,-21.6
+86,23 Feb-1 Mar/29 Feb,2021-04-18,COPD with acute exacerbation,0.76,,1.29,1.43,0.14,10.9
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Cardiovascular diseases,14.8,,12.92,11.91,-1.01,-7.8
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Cerebrovascular diseases,,1.22,2.33,2.07,-0.26,-11.2
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Chest pain,26.28,,31.37,25.34,-6.03,-19.2
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Dehydration,1.27,,1.34,1.08,-0.26,-19.4
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Diseases of the respiratory system,39.35,,45.97,51.0,5.03,10.9
+86,23 Feb-1 Mar/29 Feb,2021-04-18,Mental and behavioural disorders,23.49,,24.95,22.79,-2.16,-8.7

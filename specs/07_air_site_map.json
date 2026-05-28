@@ -1,0 +1,78 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 430,
+  "title": {
+    "text": "Victorian monitoring sites",
+    "subtitle": "Peak daily PM2.5 and days above 25 micrograms per cubic metre",
+    "anchor": "start"
+  },
+  "projection": {"type": "mercator", "center": [144.85, -37.45], "scale": 4700},
+  "layer": [
+    {
+      "data": {
+        "url": "data/victoria_outline.geojson",
+        "format": {"property": "features"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f6f2ea",
+        "stroke": "#25f4ee",
+        "strokeWidth": 1.1
+      }
+    },
+    {
+      "data": {
+        "url": "data/victoria_sa4_2021.geojson",
+        "format": {"property": "features"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "filled": false,
+        "stroke": "#111827",
+        "strokeWidth": 0.8,
+        "opacity": 0.28
+      }
+    },
+    {
+      "data": {
+        "url": "data/victoria_sa4_2021.geojson",
+        "format": {"property": "features"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "filled": false,
+        "stroke": "#25f4ee",
+        "strokeWidth": 0.35,
+        "opacity": 0.18
+      }
+    },
+    {
+      "data": {"url": "data/air_site_summary.csv"},
+      "mark": {"type": "circle", "stroke": "white", "strokeWidth": 1.2},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "size": {
+          "field": "days_over_25",
+          "type": "quantitative",
+          "scale": {"domain": [0, 10], "range": [90, 700]},
+          "legend": {
+            "title": "Days PM2.5 > 25",
+            "values": [2, 4, 6, 8, 10],
+            "orient": "right",
+            "symbolFillColor": "#ff2fb3",
+            "symbolStrokeColor": "#fff7ad",
+            "symbolStrokeWidth": 1.2
+          }
+        },
+        "color": {"field": "peak_pm25", "type": "quantitative", "scale": {"scheme": "redpurple"}, "title": "Peak PM2.5"},
+        "tooltip": [
+          {"field": "site", "type": "nominal"},
+          {"field": "peak_pm25", "type": "quantitative", "title": "Peak PM2.5"},
+          {"field": "days_over_25", "type": "quantitative", "title": "Days > 25"}
+        ]
+      }
+    }
+  ]
+}

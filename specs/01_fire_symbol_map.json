@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 460,
+  "title": "High-confidence MODIS fire detections across Australia",
+  "projection": {"type": "mercator", "center": [134, -28], "scale": 620},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vega/vega-datasets/main/data/world-110m.json",
+        "format": {"type": "topojson", "feature": "countries"}
+      },
+      "mark": {"type": "geoshape", "fill": "#f2eee5", "stroke": "#b9b0a3", "strokeWidth": 0.5}
+    },
+    {
+      "data": {"url": "data/fire_points_sample.csv"},
+      "mark": {
+        "type": "circle",
+        "opacity": 0.58,
+        "color": "#7f1d1d",
+        "stroke": "#fff7ad",
+        "strokeWidth": 0.25
+      },
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "size": {
+          "field": "frp",
+          "type": "quantitative",
+          "scale": {"domain": [0, 6000], "range": [36, 780], "clamp": true},
+          "legend": {
+            "title": "FRP",
+            "values": [0, 2000, 4000, 6000],
+            "symbolFillColor": "#7f1d1d",
+            "symbolStrokeColor": "#fff7ad",
+            "symbolStrokeWidth": 0.8
+          }
+        },
+        "color": {
+          "field": "confidence",
+          "type": "quantitative",
+          "scale": {"scheme": "orangered"},
+          "legend": {"title": "Confidence"}
+        },
+        "tooltip": [
+          {"field": "date", "type": "temporal", "title": "Date"},
+          {"field": "frp", "type": "quantitative", "title": "FRP"},
+          {"field": "confidence", "type": "quantitative", "title": "Confidence"}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Which health indicators rose most above 2018-19?",
+  "data": {"url": "data/health_indicator_weekly_change.csv"},
+  "transform": [
+    {"filter": "datum.diagnosis == 'Diseases of the respiratory system' || datum.diagnosis == 'Asthma' || datum.diagnosis == 'Abnormalities of breathing' || datum.diagnosis == 'Chest pain' || datum.diagnosis == 'Mental and behavioural disorders' || datum.diagnosis == 'Dehydration'"}
+  ],
+  "facet": {
+    "field": "diagnosis",
+    "type": "nominal",
+    "title": null
+  },
+    "columns": 3,
+  "spec": {
+    "width": 300,
+    "height": 150,
+    "layer": [
+      {
+        "mark": {"type": "area", "color": "#f3a261", "opacity": 0.45},
+        "encoding": {
+          "x": {
+            "field": "week_index",
+            "type": "quantitative",
+            "title": "Week",
+            "axis": {"tickCount": 6, "labelOverlap": true, "grid": false}
+          },
+          "y": {"field": "pct_change_vs_2018_19", "type": "quantitative", "title": "% change"}
+        }
+      },
+      {
+        "mark": {"type": "rule", "color": "#59656f"},
+        "encoding": {
+          "y": {"datum": 0},
+          "x": {
+            "field": "week_index",
+            "type": "quantitative",
+            "axis": {"tickCount": 6, "labelOverlap": true, "grid": false}
+          }
+        }
+      }
+    ]
+  }
+}

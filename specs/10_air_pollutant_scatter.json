@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 360,
+  "title": "PM2.5 and PM10 often rose on the same days",
+  "data": {"url": "data/air_pollutant_pairs.csv"},
+  "transform": [
+    {"filter": "datum.pm10 <= 100 && datum.pm25 <= 100"}
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "circle",
+        "opacity": 0.5,
+        "filled": true
+      },
+      "encoding": {
+        "x": {
+          "field": "pm10",
+          "type": "quantitative",
+          "title": "Daily mean PM10",
+          "scale": {"domain": [0, 100]},
+          "axis": {"tickCount": 6}
+        },
+        "y": {
+          "field": "pm25",
+          "type": "quantitative",
+          "title": "Daily mean PM2.5",
+          "scale": {"domain": [0, 100]},
+          "axis": {"tickCount": 6}
+        },
+        "color": {
+          "field": "site",
+          "type": "nominal",
+          "scale": {
+            "range": ["#00e5ff", "#ffb000", "#ff3d8b", "#8cff66", "#7c4dff"]
+          },
+          "legend": {"title": "Site"}
+        },
+        "size": {
+          "field": "pm25",
+          "type": "quantitative",
+          "scale": {"domain": [0, 250], "range": [14, 170], "clamp": true},
+          "legend": null
+        },
+        "tooltip": [
+          {"field": "date", "type": "temporal"},
+          {"field": "site", "type": "nominal"},
+          {"field": "pm25", "type": "quantitative", "title": "PM2.5", "format": ".1f"},
+          {"field": "pm10", "type": "quantitative", "title": "PM10", "format": ".1f"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.pm25 >= 50 || datum.pm10 >= 80"}],
+      "mark": {
+        "type": "circle",
+        "filled": false,
+        "stroke": "#fff7ad",
+        "strokeWidth": 1.4,
+        "opacity": 0.9
+      },
+      "encoding": {
+        "x": {"field": "pm10", "type": "quantitative", "scale": {"domain": [0, 100]}},
+        "y": {"field": "pm25", "type": "quantitative", "scale": {"domain": [0, 100]}},
+        "size": {
+          "field": "pm25",
+          "type": "quantitative",
+          "scale": {"domain": [0, 250], "range": [28, 230], "clamp": true},
+          "legend": null
+        },
+        "tooltip": [
+          {"field": "date", "type": "temporal"},
+          {"field": "site", "type": "nominal"},
+          {"field": "pm25", "type": "quantitative", "title": "PM2.5", "format": ".1f"},
+          {"field": "pm10", "type": "quantitative", "title": "PM10", "format": ".1f"}
+        ]
+      }
+    }
+  ]
+}
