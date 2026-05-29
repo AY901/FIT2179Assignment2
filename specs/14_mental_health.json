@@ -3,7 +3,7 @@
   "width": "container",
   "height": 330,
   "title": "Bushfire mental-health MBS services shifted into telehealth",
-  "data": {"url": "data/mental_health_weekly.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/mental_health_weekly.csv"},
   "transform": [
     {"fold": ["face_to_face_n", "telehealth_n"], "as": ["mode_raw", "services"]},
     {"calculate": "datum.mode_raw == 'face_to_face_n' ? 'Face-to-face' : 'Telehealth'", "as": "Service mode"}
