@@ -3,7 +3,7 @@
   "width": "container",
   "height": 340,
   "title": "NSW emergency presentations: 2019-20 compared with earlier seasons",
-  "data": {"url": "data/health_nsw_weekly.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/health_nsw_weekly.csv"},
   "transform": [
     {"filter": "datum.diagnosis == 'Diseases of the respiratory system' || datum.diagnosis == 'Asthma'"},
     {"filter": "datum.season == '2018-19' || datum.season == '2019-20'"}
