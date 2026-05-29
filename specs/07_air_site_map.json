@@ -48,7 +48,7 @@
       }
     },
     {
-      "data": {"url": "data/air_site_summary.csv"},
+      "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/air_site_summary.csv"},
       "mark": {"type": "circle", "stroke": "white", "strokeWidth": 1.2},
       "encoding": {
         "longitude": {"field": "longitude", "type": "quantitative"},
