@@ -5,7 +5,7 @@
     {
       "width": "container",
       "height": 150,
-      "data": {"url": "data/fire_weekly.csv"},
+      "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/fire_weekly.csv"},
       "mark": {"type": "area", "color": "#c73e1d", "opacity": 0.7},
       "encoding": {
         "x": {
