@@ -38,7 +38,7 @@
     {
       "width": "container",
       "height": 170,
-      "data": {"url": "data/health_indicator_weekly_change.csv"},
+      "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/health_indicator_weekly_change.csv"},
       "transform": [
         {"filter": "datum.diagnosis == 'Diseases of the respiratory system' || datum.diagnosis == 'Asthma'"}
       ],
