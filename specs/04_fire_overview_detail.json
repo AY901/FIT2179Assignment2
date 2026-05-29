@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Overview and detail: brush the lower chart to inspect peak fire periods",
-  "data": {"url": "data/fire_daily.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/fire_daily.csv"},
   "vconcat": [
     {
       "width": "container",
