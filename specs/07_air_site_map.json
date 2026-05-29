@@ -11,7 +11,7 @@
   "layer": [
     {
       "data": {
-        "url": "data/victoria_outline.geojson",
+        "url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/victoria_outline.geojson",
         "format": {"property": "features"}
       },
       "mark": {
