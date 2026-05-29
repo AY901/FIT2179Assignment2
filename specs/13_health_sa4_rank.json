@@ -11,7 +11,7 @@
     "subtitleColor": "#b8bdc6",
     "color": "#fffaf0"
   },
-  "data": {"url": "data/health_sa4_peak.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/AY901/FIT2179Assignment2/refs/heads/main/data/health_sa4_peak.csv"},
   "transform": [
     {"filter": "datum.indicator == 'Respiratory medication prescriptions'"},
     {"window": [{"op": "rank", "as": "rank"}], "sort": [{"field": "max_change_vs_2018_19", "order": "descending"}]},
